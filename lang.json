@@ -1,0 +1,2256 @@
+{
+	"title1": {
+		"en": "Architect Marcis Mezulis",
+		"lv": "Arhitekts Mārcis Mežulis ",
+		"ru": "Архитектор Марцис Межулис"
+	},
+	"subtitle1": {
+		"lv": "Arhitekta prakses sertifikāts Nr1-00594",
+		"en": "Architect's practice certificate No1-00594"
+	},
+	"contacts": {
+		"en": "Contacts",
+		"lv": "Kontakti",
+		"ru": "Контакты"
+	},
+	"projects": {
+		"en": "Projects",
+		"lv": "Projekti",
+		"ru": "Проекты"
+	},
+	"description": {
+		"en": "Description",
+		"lv": "Apraksts",
+		"ru": "Описание"
+	},
+	"preview-projects": {
+		"en": "Preview projects",
+		"lv": "Apskatīt projektus",
+		"ru": "Смотреть проекты"
+	},
+	"experience": {
+		"en": "Full construction project development",
+		"lv": "Pilna būvprojekta izstrāde",
+		"ru": "Полная разработка строительного проекта"
+	},
+	"homepage-1": {
+		"en": "Client representation during construction process",
+		"lv": "Klienta interešu pārstāvniecība būvniecības procesā"
+	},
+	"homepage-2": {
+		"en": "Construction project management",
+		"lv": "Būvprojekta vadība"
+	},
+	"homepage-3": {
+		"en": "Author supervision",
+		"lv": "Autoruzraudzība"
+	},
+	"homepage-4": {
+		"en": "Full construction project development",
+		"lv": "Pilna būvprojekta izstrāde"
+	},
+	"homepage-5": {
+		"en": "Architecture",
+		"lv": "Arhitektūra"
+	},
+	"homepage-6": {
+		"en": "Interior",
+		"lv": "Interjers"
+	},
+	"experience-desc": {
+		"en": "Significant projects - Z-Towers, Latvian National Library, concert hall \"Lielais dzintars\", etc.",
+		"lv": "Z-Towers, Latvijas Nacionālā Bibliotēka, koncertzāle \"Lielais dzintars\", Ventspils mūzikas vidusskola u.c.",
+		"ru": "Значимые проекты - Z-Towers, Латвийская национальная библиотека, концертный зал \"Lielais dzintars\" и др."
+	},
+	"actual-experience-title": {
+		"en": "Experience",
+		"lv": "Pieredze"
+	},
+	"actual-experience-desc": {
+		"en": "More than 30 years of experience in being a reliable partner for clients and taking on the leading role in developing, managing and implementing projects. Our extensive experience enables us to implement your ideas, creating functional and top-quality space and environments.",
+		"lv": "Vairāk nekā 30 gadu pieredze, esot uzticamam partnerim un pildot vadošo lomu būvprojektu izstrādē, vadībā un realizācijā. Uzkrātā pieredze ļauj realizēt ieceres, radot funkcionālu un augsti kvalitatīvu telpu un vidi."
+	},
+	"solutions-title": {
+		"en": "Diverse solutions",
+		"lv": "Daudzveidīgi risinājumi"
+	},
+	"solutions-description": {
+		"en": "During the course of our company’s activity, we have developed solutions of various scope and profile - from private interior designs and homes to large-scale budget, state and municipal projects with extensive design and implementation deadlines.",
+		"lv": "Darbības laikā izstrādāti daudzveidīga mēroga un profila risinājumi, sākot no privātiem interjeriem un individuālajām dzīvojamām mājām, līdz liela apjoma budžeta, valsts un pašvaldību pasūtījumiem ar apjomīgiem projektēšanas un realizācijas termiņiem."
+	},
+	"long-term": {
+		"en": "Long - term operations",
+		"lv": "Būvprojektu vadība",
+		"ru": "Длительная эксплуатация"
+	},
+	"long-term-desc": {
+		"en": "More than 25 years of experience in the field of architecture",
+		"lv": "Projektu vadība no idejas līdz realizācijai, līdzsvarojot būvniecības izmaksas, izpildes termiņus un kvalitāti",
+		"ru": "Более 25 лет опыта в области архитектуры"
+	},
+	"large-things": {
+		"en": "Full responsibility for the provided solution",
+		"lv": "Pilna atbildība par risinājumu"
+	},
+	"large-things-paragraph": {
+		"en": "Our projects come from a passion driven, long years of experience in the field. Irreplaceable knowledge for your needs and biggest dreams.",
+		"lv": "Mūsu projekti ir cēlušies no vēlmes radīt. Vairāk nekā 15 gadi nozarē un neaizvietojamas pieredze - jūsu vajadzībām, vēlmēm, un sapņiem."
+	},
+	"large-things-1": {
+		"en": "professional cooperation with the employer, representing their needs at all construction project levels and phases",
+		"lv": "profesionāla sadarbība ar pasūtītāju, pārstāvot tā intereses visos būvniecības procesa līmeņos un stadijās"
+	},
+	"large-things-2": {
+		"en": "construction project management ensuring that the aesthetic and functional values of the employer’s intent comply with modern sustainability and ethics requirements",
+		"lv": "būvprojekta izstrāde, kur estētiskās un funkcionālās vērtības atbilst pasūtītāja iecerei, mūsdienīgām ilgtspējas un ētikas prasībām"
+	},
+	"large-things-3": {
+		"en": "compliance of the development construction project documentation with highest industry standards, ensuring accurate implementation of projects",
+		"lv": "izstrādātās būvprojekta dokumentācijas atbilstība augstākajiem nozares standartiem, garantējot precīzu projekta realizāciju"
+	},
+	"greetings": {
+		"en": "Send me a message",
+		"lv": "Sazinies",
+		"ru": "Отправить мне сообщение"
+	},
+	"find-me-1": {
+		"en": "Find Mārcis here",
+		"lv": "Vari atrast Mārci",
+		"ru": "Найди меня"
+	},
+	"find-me-2": {
+		"en": "here",
+		"lv": "šeit",
+		"ru": "здесь"
+	},
+	"gsa-project": {
+		"en": "Project",
+		"lv": "Projekts",
+		"ru": "Проект"
+	},
+	"arhetips-name": {
+		"en": "Architectural firm",
+		"lv": "Arhitektu birojs",
+		"ru": "Архитектурная фирма"
+	},
+	"lnb-name": {
+		"en": "National Library of Latvia",
+		"lv": "Latvijas Nacionālā Bibliotēka",
+		"ru": "Латвийская национальная библиотека"
+	},
+	"lnb-description": {
+		"en": "Technical project, interior. The building, engineering communications, organization of transport and pedestrian movement, facilities.",
+		"lv": "Tehniskais projekts, interjers. Tehniskā ēka, inženierkomunikācija, transporta un gājēju kustības organizācija, labiekārtojums. ",
+		"ru": "Технический проект, интерьер. Техническое здание, инженерные коммуникации, организация транспортного и пешеходного движения, сооружения."
+	},
+	"lnb-contractor": {
+		"en": "Association of national construction companies consisting of “Skonto būve”, “RBSSKALS” and “RE&RE”.",
+		"lv": "Nacionālo būvkompāniju apvienība, kurā ietilpst - „Skonto būve”, „RBSSKALS” un „RE&RE”"
+	},
+	"lnb-interior": {
+		"en": "General partnership “4MB” (“Daiļrade koks”, “Pinus M”, “Kate” and “Coppa”)",
+		"lv": "Pilnsabiedrība „4MB” („Daiļrade koks”, „Pinus M”, „Kate” un „Coppa”)"
+	},
+	"lnb-costs": {
+		"en": "179.7 million EUR",
+		"lv": "179.7 miljoni EUR"
+	},
+	"raka-name": {
+		"en": "\"RaKa\" reconstruction of production buildings",
+		"lv": "\"RaKa\" ražošanas ēku rekonstrukcija",
+		"ru": "\"RaKa\" реконструкция производственных корпусов"
+	},
+	"raka-description": {
+		"en": "Building reconstructions, environmental architecture, design. Complete project development and implementation process over several months.",
+		"lv": "Ēku rekonstrukcijas, vides arhitektūra, dizains. Pilnīga projekta izstrāde un realizēšanas process, vairāku mēnešu garumā.",
+		"ru": "Реконструкция зданий, экологическая архитектура, дизайн. Завершить процесс разработки и реализации проекта за несколько месяцев."
+	},
+	"other-projects": {
+		"en": "Other projects",
+		"lv": "Citi projekti",
+		"ru": "Другие проекты"
+	},
+	"arhetips-project-1": {
+		"en": "Office building reconstruction, interior - Jūrmala, Bulduru 70",
+		"lv": "Biroju ēkas rekonstrukcija, interjers - Jūrmala, Bulduru prospekts 70",
+		"ru": "Реконструкция офисного здания, интерьер - Юрмала, проспект Булдуру 70"
+	},
+	"arhetips-project-2": {
+		"en": "Renovation of SIA \"Lattelecom\" administration premises, interior - Riga, Dzirnavu street 105",
+		"lv": "SIA \"Lattelecom\" administrācijas telpu renovācija, interjers - Rīga, Dzirnavu iela 105",
+		"ru": "Ремонт административных помещений SIA \"Lattelecom\", интерьер - Рига, улица Дзирнаву 105"
+	},
+	"arhetips-project-3": {
+		"en": "JSC \"Latvenergo\" TES TEC-1 production building - Riga, Viskaļu street 16",
+		"lv": "AS \"Latvenergo\" TES TEC-1 ražošanas ēka - Rīga, Viskaļu iela 16",
+		"ru": "Производственное здание ТЭС ТЭЦ-1 АО \"Latvenergo\" - Рига, улица Вискалю 16"
+	},
+	"baku-title": {
+		"en": "Baku Tower, a multi-functional skyscraper layout, interior",
+		"lv": "Daudzfunkcionālā kompleksa augstceltnes “Baku Tower” plānojums, interjers"
+	},
+	"baku-address": {
+		"en": "Haydar Aliyev avenue 109, Baku, Azerbaijan",
+		"lv": "Haydar Aliyev avenue 109, Baku, Azerbaidžāna"
+	},
+	"baku-client": {
+		"en": "Azvil Tikinti",
+		"lv": "Azvil Tikinti"
+	},
+	"baku-duties": {
+		"en": "Project manager",
+		"lv": "Būvprojekta vadītājs (2018 - 2020)"
+	},
+	"baku-type": {
+		"en": "mixed-use skyscraper",
+		"lv": "multifunkcionāla augstceltne"
+	},
+	"baku-1": {
+		"en": "Main designer, project author: Cobalt / Annvil, A.Bates",
+		"lv": "Galvenais projektētājs, projekta autors: Cobalt / Annvil, A.Bates"
+	},
+	"baku-2": {
+		"en": "Architecture part leader: Ilze Rukmane Poca (SIA Balta Istaba)",
+		"lv": "Arhitektūras daļas vadītājs: I.Rukmane-Poča (SIA Balta Istaba)"
+	},
+	"baku-3": {
+		"en": "Team: Karlis Saltups, Ieva Makena, Reinis Predelis, Kristina Reinberga, Agnese Vilkausa, Kristine Amatniece, Sabine Eigmina, Fakhraddin Verdiyev, Janis Pinkis, Augusts Galins",
+		"lv": "Projekta komanda: Karlis Saltups, Ieva Makena, Reinis Predelis, Kristina Reinberga, Agnese Vilkausa, Kristine Amatniece, Sabine Eigmina, Fakhraddin Verdiyev, Janis Pinkis, Augusts Galins"
+	},
+	"baku-4": {
+		"en": "Project development: 2020.",
+		"lv": "Projekta izstrāde 2020.gads."
+	},
+	"baku-5": {
+		"en": "The main task of the project group is to create a modern, functionally justified layout of premises and a modern high-level interior on a base of customer's wishes and requirements, as well as the existing project work documentation in one of the tallest buildings in the capital of Azerbaijan – Baku.",
+		"lv": "Projekta grupas pamatuzdevums- projekta izstrādes pamatā liekot Pasūtītāja vēlmes un prasības, kā arī esošo projekta darba dokumentāciju, izveidot mūsdienīgu, funkcionāli pamatotu telpu plānojumu un modernu augstākā līmeņa interjeru vienā no Azerbaidzānas galvas pilsēta – Baku augstākajām celtnēm."
+	},
+	"baku-6": {
+		"en": "50 stories of the building have been re-planned with a total area of 69800 m2 and are expected to accommodate about 3,730 employees and 2,470 visitors.",
+		"lv": "Augstceltnes 50 stāvi pārplānoti, 69 800 m² platībā izveidojot tuvu pie 3 730 darba vietām, plānojot apmēram 2 470 apmeklētājus."
+	},
+	"baku-7": {
+		"en": "The building is designed as an office building with 40 office stories, including a business hub and VIP office. Three separate conference floors are also planned, with additional functions also intended for office staff on the first four stories of the building, e.g. a cafeteria (2 stories), a commercial floor (with a childcare area, hairdressers and some shops) and a two-story underground car park with 222 parking spaces.",
+		"lv": "Ēkas pamatfunkcija izvietota ir 40 biroju stāvos, ieskaitot biznesa “hub” un VIP biroju. Biroju vajadzībām plānoti 3 konferenču stāvi, kā arī papildus apkalpošanas funkcijas ēkas pirmajos 4 stāvos, kā kafetērija, komerciālās telpas (iekļaujot bērnu aprūpes telpas, frizieru pakalpojumus, veikalus, u.c.). Ēkas -1. un 1.stāvos plānots daudzfunkcionālsSpa komplekss un fitnesa zāles."
+	},
+	"baku-8": {
+		"en": "Technical rooms and storage facilities are planned for the underground level of the building along with rooms for the building manager and changing rooms for employees.",
+		"lv": "Iekļūšana ēkā plānota caur īpašu halli ēkas 1.stāvā, kurā paredzēta drošības kontrole un uzgaidīšanas zona."
+	},
+	"baku-9": {
+		"en": "A spacious spa and fitness area is planned on floors 1 and -1. The ground floor has a spacious lobby with a security area and a waiting / lounge area.",
+		"lv": "Apakšzemes stāvos izvietota auto stāvvieta 222 automašīnām, kā arī  telpas ēkas vadības un apsaimniekošanas personālam, palīgtelpas, noliktavas un tehniskās telpas."
+	},
+	"baku-description": {
+		"en": "Construction project manager. Baku is one of the toughest places to design a building. First of all, they are famous for their wind, and that's one thing to account for. The second challenging part is their ground, which is very muddy.",
+		"lv": "Būvprojekta vadītājs. Baku ir vieta, kurā ēku strukturālā izturība ir ļoti nozīmīga. Pirmkārt - blakus esošās jūras dēļ apgabals ir ļoti vējains, un otrkārt - zeme, uz kuras ēkas tiek būvētas ir irdena un mitra.",
+		"ru": "Баку - одно из самых сложных мест для проектирования зданий. Прежде всего, они известны своим ветром, и это одно, что нужно учитывать. Вторая сложная часть - это их земля, которая очень грязная."
+	},
+	"ventspils-title": {
+		"en": "Ventspils Music High School, Concert hall in the Big Square",
+		"lv": "Ventspils mūzikas vidusskola ar koncertzāles funkciju Lielajā laukumā",
+		"ru": "Вентспилсская музыкальная средняя школа с функцией концертного зала на Большой площади"
+	},
+	"ventspils-description": {
+		"en": "Due to their multifunctionality, groups of the functional rooms of the complex can operate autonomously or together depending on the need. The flow of visitors is mainly divided into: music school function, concert hall function for visitors, concert hall function for event participants. The pride of the concert hall is undoubtedly the impeccable acoustic indicators, which have been recognized as excellent by both industry professionals and Latvian and foreign artists.",
+		"lv": "Savas multifunkcionalitātes dēļ dažādu funkcionālās kompleksa telpu grupas var darboties autonomi, vai arī kopīgi atkarībā no nepieciešamības. Apmeklētāju plūsmas pamatā sadalās: mūzikas skolas funkcija, koncertzāles funkcija apmeklētājiem, koncertzāles funkcija pasākumu dalībniekiem. Koncertzāles lepnums neapšaubāmi ir nevainojamie akustiskie rādītāji, ko par izciliem atzinuši gan nozares profesionāļi, gan Latvijas un ārvalstu mākslinieki."
+	},
+	"ventspils-description-1": {
+		"en": "Thanks to its multi-functionality, various premise groups of the complex can operate autonomously or jointly according to necessity. The general breakdown of visitor flows is as follows: music School function, concert Hall function for the public, concert Hall function for participants of the events, music school function",
+		"lv": "Savas multifunkcionalitātes dēļ dažādu funkcionālās kompleksa telpu grupas var darboties autonomi, vai arī kopīgi atkarībā no nepieciešamības. Apmeklētāju plūsmas pamatā sadalās: mūzikas skolas funkcija, koncertzāles funkcija apmeklētājiem, koncertzāles funkcija pasākumu dalībniekiem, mūzikas skolas funkcija. "
+	},
+	"ventspils-description-2": {
+		"en": "On the first-floor level, the Music School also has an autonomous entrance from the Lielais Square. The Small Hall is used as a rehearsal room by the Music School. If public events are taking place simultaneously with events in the Large Hall, then the school entrance serves for this purpose (it features and atrium and visitor lavatories).",
+		"lv": "Pirmā stāva līmenī mūzikas skolai ir autonoma ieeja no Lielā laukuma. Mazā zāle tiek izmantota kā mūzikas skolas mēģinājuma telpa. Ja publiskie pasākumi notiek mazajā zālē paralēli pasākumam lielajā zālē, tad skolas ieeja kalpo šim gadījumam (ir vestibils, apmeklētāju tualetes)."
+	},
+	"ventspils-description-3": {
+		"en": "On the second-floor level, the Music School premises are positioned along the corridor which embraces the Large Hall. The library is located in the atrium; thus, it can also be used by other visitors without disturbing the school’s internal order. The third floor is completely at the Music School’s disposal. The learners can use the atrium for recreation. ",
+		"lv": "Otrā stāva līmenī mūzikas skolas nodarbību telpas izkārtojas gar gaiteni, kas aptver lielo zāli. Bibliotēkas telpa izvietojas ātrijā, kas ļauj to izmantot arī citiem apmeklētājiem, netraucējot skolas iekšējo kārtību. Trešais stāvs pilnībā ir mūzikas skolas rīcībā. Audzēkņiem ir iespējas kā rekreāciju izmantot ātriju."
+	},
+	"ventspils-description-4": {
+		"en": "The Concert Hall visitors enter the atrium via the main entrance from the Lielais Square. Premises necessary for visitors, i.e., information and box office, cafeteria, lavatories, cloakroom, are located on the 1st floor. Visitors enter the Large Hall directly from the atrium. The atrium is separable from other functional premise groups located in the building. On the 2nd floor, visitors enter the Large Hall balcony directly from the atrium. Upon the object user’s permission, visitors can also use the Green Room library where various other types of public events intended for small audiences can take place. The atrium is separable from other functional premise groups located in the building. ",
+		"lv": "Koncertzāles apmeklētāji ienāk ātrijā pa galveno ieeju no Lielā laukuma puses. Ātrijā 1.stāvā izvietojas telpas, kas nepieciešamas apmeklētājiem, proti, informācijas un biļešu bokss, kafejnīca, tualetes, garderobe. No ātrija apmeklētāji pa taisno nonāk lielajā zālē. Ātrijs ir nodalāms no pārējam  funkcionālajām objekta telpu grupām. 2.stāva līmenī no ātrija apmeklētāji tieši nonāk lielās zāles balkonā. Apmeklētāji, ja to atļauj objekta lietotājs, var izmantot arī bibliotēku, „green room”, kurā var notikt dažādi citi publiskie pasākumi nelielajai auditorijai. Ātrijs ir nodalāms no pārējam funkcionālajām objekta telpu grupām. "
+	},
+	"ventspils-description-5": {
+		"en": "The back part of the Large hall is also used as a backstage. Deliveries are organized via a separate entrance from the courtyard. It also features a short route to the Large Hall and Small Hall stages. Participants of events (artists, service staff) have a separate entrance from the courtyard. This entrance has access control. Several Music School premises can also be used as artists’ changing rooms. The backstage functions separately from the rest of the complex also on the 2nd floor level. On this floor, the Music School premises can be used as changing rooms for choir members. The choir can enter the Large Hall’s choir balcony directly from this level.",
+		"lv": "Lielās zāles aizmugures daļa tiek izmantota arī kā aizskatuve. Piegāde tiek organizēta pa atsevišķu ieeju no pagalma puses. Te ir īss ceļš gan uz lielās gan arī mazās zāles skatuvēm. Pasākuma dalībniekiem (mākslinieki, apkalpojošais personāls) ir sava ieeja no pagalma puses. ī ieeja tiek kontrolēta. Virkne mūzikas skolas nodarbību telpas var tikt izmantot arī kā mākslinieku ģērbtuves. Arī 2.stāva līmenī aizskatuve darbojas šķirti no pārējā kompleksa. Šajā stāvā mūzikas skolas telpas var tikt izmantot kā koristu ģērbtuves. No šī līmeņa koris tieši iziet uz kora balkonu lielajā zālē. "
+	},
+	"ventspils-description-6": {
+		"en": "The structural layout of the building consists of vertical and horizontal bearing monolithic reinforced concrete structures. The load from the top floor slabs is disseminated to the 1st floor and basement walls and columns and further on to separate and band-like grids, and via them – to drilled pile foundations. The building’s spatial stability is mainly ensured by reinforced concrete longitudinal walls and transverse walls and reinforced concrete elevator walls in both directions. Steel roof bearing structures are designed above the 4th floor. The roof structure is made of rolled double-T or RHS type profiles and welded double-T profiles, floor trusses are mainly made of rolled RHS type profiles, applicable steel element cross-sections and material standards according to the project documentation. The roof structure is based on a trapezoid steel bearing profile with the height of 135 mm.",
+		"lv": "Ēkas konstruktīvo shēmu veido monolīta dz/b nesošās vertikālās un horizontālās konstrukcijas. Slodze no augšējo stāvu pārsegumiem caur sijām un sienām tiek nodota uz 1. st. un pagrabstāva sienām un kolonnām, tālāk uz atsevišķiem un lentveida režģogiem, caur tiem – uz urbto pāļu pamatiem. Ēkas telpisko noturību galvenokārt nodrošina dzb. garensienas un šķērssienas un liftu dz/b sienas abos virzienos. Virs 4. stāva projektētas tērauda jumta nesošās konstrukcijas. Jumta konstrukcijas izgatavota no velmētiem dubult-t vai RHS tipa profiliem un metinātiem dubult-t profiliem, pārseguma kopnes pamatā izgatavotas no velmētiem RHS tipa profiliem, pielietojamo tērauda elementu šķērsgriezumu un materiālu standarti atbilstoši projekta dokumentācijai. Jumta konstrukcija tiek balstīta uz trapecveida tērauda nesošā profila ar augstumu 135 mm."
+	},
+	"ventspils-description-7": {
+		"en": "The Large Hall of the Concert Hall Latvia is home to two unique world-class musical instruments – manual acoustic pipe organ manufactured by Johannes Klais Orgelbau GmbH & Co. KG (Germany), and currently the world’s largest vertical concert grand piano created by Latvian-born piano master Dāvids Kļaviņš. The Concert Hall takes pride in its doubtlessly impeccable acoustic properties that have been recognized as outstanding by both industry professionals and Latvian and foreign artists. The object features natural ventilation and mechanical ventilation systems controlled by the building equipment management system depending on the events planned in the premises and the changing weather conditions. This is the first object in Latvia to use local decentralised supply-exhaust systems that are planned to be built as independent systems for each individual room of the Music School. All ventilation systems are designed with high efficiency energy recuperation. The construction project also provides for the use of geothermal energy (heat pump for heating and cooling, geothermal air ducts for heating and cooling fresh air) in order to reduce primary energy consumption during the cold and hot months of the year. The building features an automatic management system that ensures controlled functioning of all systems. ",
+		"lv": "Koncertzāles “Latvija” Lielajā zālē atrodas divi pasaules līmeņa, unikāli mūzikas instrumenti – manuālās akustiskās koncertērģeles, kas tapušas uzņēmumā \"Johannes Klais Orgelbau GmbH & Co. KG\" Vācijā, un šobrīd pasaulē lielākās vertikālās koncertklavieres, ko radījis latviešu izcelsmes klavierbūves meistars Dāvids Kļaviņš.  Koncertzāles lepnums neapšaubāmi ir nevainojamie akustiskie rādītāji, ko par izciliem atzinuši gan nozares profesionāļi, gan Latvijas un ārvalstu mākslinieki. Objektā ir ieprojektētas dabīgās vēdināšanas un mehāniskās ventilācijas sistēmas, kuru darbību nosaka automātiskā ēkas iekārtu vadības sistēma atkarībā no plānotajiem pasākumiem telpās, telpu noslogojuma, kā arī mainīgiem laika apstākļiem. Pirmo reizi Latvijā tiek izmantotas lokālās decentralizētās pieplūdes-nosūces sistēmas, kuras paredzēts izbūvēt kā neatkarīgas sistēmas katrai mūzikas skolas individuālai nodarbību telpai. Visas ventilācijas sistēmas ir projektētas ar augstas efektivitātes enerģijas rekuperāciju. Būvprojekts paredz arī ģeotermālās enerģijas izmantošanu (siltuma sūknis apkurei un dzesēšanai, ģeotermālie gaisa vadi svaigā gaisa sildīšanai un dzesēšanai), lai mazinātu primārās enerģijas patēriņu gada aukstajos un karstajos periodos. Būvē ir ieprojektēta automātiskā vadības sistēma, kas nodrošina visu sistēmu kontrolējamu darbību. "
+	},
+	"z-towers-title": {
+		"en": "Multifunctional complex \"Z-Towers\"",
+		"lv": "Daudzfunkcionālais komplekss \"Z-Towers\"",
+		"ru": "Многофункциональный комплекс «Z-Towers»"
+	},
+	"z-towers-description": {
+		"en": "The Z-Towers multi-functional complex includes two round-diameter cross-section towers with bases of various areas, each tower having 30 floors.  Tower height: South — 123 m, North — 117.5 m. The total number of apartments in both towers is 341. North Tower — 204 apartments from the 4th to 30th floor with area ranging between 35 and 300 square meters. Premium class internal finishing envisaged for apartments from the 4th to 18th floor. South Tower —  class A offices from the 4th to 13th floor; starting from the 14th floor, apartments with area ranging between 65 and 190 square meters; highest floor features a penthouse with a layout of up to 900 square meters. Complex 4-level underground parking lot suited for up to 700 cars. The elevation of Z-Towers that joins both towers together features restaurants, conference premises, dining venues, gourmet shops and a 24/7 service desk whereas the 4000 square meters on the 2nd and 3rd floor are home to a premium class fitness club, a SPA with a recreation complex, and a 25-meter-long swimming pool. The adjacent complex territory will feature an international school, kindergarten and a park with a playground and a sports ground.  ",
+		"lv": "Daudzfunkcionālais komplekss Z-Towers iekļauj divus apaļa šķērsgriezuma torņus ar dažādas platības pamatnēm, katrs tornis ir 30 stāvu augsts.  Torņu augstums: South 123 m, North 117,5 m. Kopējais apartamentu skaits abos torņos ir 341. North Tower - 204 apartamenti no 4. līdz 30. stāvam platībā no 35 līdz 300 kvadrātmetriem. Premium klases iekšējā apdare paredzēta apartamentiem no 4. līdz 18. stāvam. South Tower t -  A klases biroji no 4. līdz 13. stāvam, sākot no 14. stāva apartamenti platībā no 65 līdz 190 kvadrātmetriem, un pēdējā stāvā penthauss ar plānojumu līdz pat 900 kvadrātmetriem. Kompleksa četru līmeņu apakšzemes autostāvvieta uzņem līdz 700 automašīnām. Z-Towers paaugstinājumā, kas savieno abus torņus, restorāni, konferenču telpas, kafejnīcas, gardēžu veikali un diennakts apkalpošanas dienests, bet otrajā un trešajā stāvā 4000 kvadrātmetros  “premium” klases fitnesa klubs, SPA ar atpūtas kompleksu, kā arī 25 metrus garu baseinu. Kompleksa pieguļošā teritorijā atradīsies starptautiskā skola un bērnudārzs, kā arī parks ar bērnu rotaļu un sporta laukumu.  "
+	},
+	"z-towers-short": {
+		"en": "The Z-Towers multi-functional complex includes two round-diameter cross-section towers with bases of various areas, each tower having 30 floors. The elevation of Z-Towers that joins both towers together features restaurants, conference premises, dining venues, gourmet shops and a 24/7 service desk whereas the 4000 square meters on the 2nd and 3rd floor are home to a premium class fitness club, a SPA with a recreation complex, and a 25-meter-long swimming pool. The adjacent complex territory will feature an international school, kindergarten and a park with a playground and a sports ground.",
+		"lv": "Daudzfunkcionālais komplekss Z-Towers iekļauj divus apaļa šķērsgriezuma torņus ar dažādas platības pamatnēm, katrs tornis ir 30 stāvu augsts. Z-Towers paaugstinājumā, kas savieno abus torņus, restorāni, konferenču telpas, kafejnīcas, gardēžu veikali un diennakts apkalpošanas dienests, bet otrajā un trešajā stāvā 4000 kvadrātmetros  “premium” klases fitnesa klubs, SPA ar atpūtas kompleksu, kā arī 25 metrus garu baseinu. Kompleksa pieguļošā teritorijā atradīsies starptautiskā skola un bērnudārzs, kā arī parks ar bērnu rotaļu un sporta laukumu."
+	},
+	"gsa-project-1": {
+		"en": "Concert hall \"Great Amber\" - Radio street 8, Liepāja",
+		"lv": "Koncertzāle \"Lielais dzintars\" - Radio iela 8, Liepāja",
+		"ru": "Концертный зал \"Lielais dzintars\" - ул. Радио 8, Лиепая"
+	},
+	"gsa-project-2": {
+		"en": "Reconstruction of Riga radio and television station - Zakusalas 1, Riga",
+		"lv": "Rīgas radio un televīzijas stacijas pārbūve - Zaķusalas krastmala 1, Rīga",
+		"ru": "Реконструкция Рижского радио и телевидения - Закусалас 1, Рига"
+	},
+	"about-nav": {
+		"en": "Experience",
+		"lv": "Pieredze"
+	},
+	"about-title": {
+		"en": "Experience",
+		"lv": "Pieredze"
+	},
+	"contacts-name": {
+		"en": "Marcis Mezulis (Mārcis Mežulis)",
+		"lv": "Mārcis Mežulis"
+	},
+	"contacts-number": {
+		"en": "Phone number",
+		"lv": "Telefona numurs"
+	},
+	"contacts-click": {
+		"en": "click here",
+		"lv": "klikšķiniet šeit"
+	},
+	"contacts-email": {
+		"en": "Email",
+		"lv": "E-pasts"
+	},
+	"contacts-office": {
+		"en": "Office address",
+		"lv": "Biroja adrese"
+	},
+	"contacts-office-address": {
+		"en": "Apt. 9, 9A Pulkveža Brieža Iela, LV-1010, Riga, Latvia",
+		"lv": "Pulkveža Brieža iela 9A-9, Rīga"
+	},
+	"about-experience": {
+		"en": "Professional experience",
+		"lv": "Profesionāla pieredze",
+		"ru": "Профессиональный опыт"
+	},
+	"about-period": {
+		"en": "Period",
+		"lv": "Laika periods",
+		"ru": "Временной период"
+	},
+	"about-place": {
+		"en": "Place of work",
+		"lv": "Darba vieta",
+		"ru": "Место работы"
+	},
+	"about-address": {
+		"en": "Address of place of work",
+		"lv": "Darba vietas adrese",
+		"ru": "Адрес места работы"
+	},
+	"about-position": {
+		"en": "Position",
+		"lv": "Ieņemamais amats",
+		"ru": "Должность"
+	},
+	"about-duties": {
+		"en": "Main duties",
+		"lv": "Galvenie pienākumi",
+		"ru": "Основные обязанности"
+	},
+	"project-duties": {
+		"en": "Responsibilities",
+		"lv": "Pienākumi projektā"
+	},
+	"about-significant": {
+		"en": "Most significant projects",
+		"lv": "Nozīmīgākie projekti",
+		"ru": "Наиболее значимые проекты"
+	},
+	"w-place-1": {
+		"en": "Ministry of Environmental Protection and Regional Development",
+		"lv": "Vides aizsardzības un reģionālās attīstības ministrija",
+		"ru": "Министерство охраны окружающей среды и регионального развития"
+	},
+	"w-period-1": {
+		"en": "07.2017. – 08.2021.",
+		"lv": "07.2017. – 08.2021.",
+		"ru": "07.2017. - 08.2021."
+	},
+	"w-address-1": {
+		"en": "25 Peldu Street, Riga, Latvia",
+		"lv": "25 Peldu Iela, Rīga",
+		"ru": "Улица Пельду, 25, Рига, Латвия"
+	},
+	"w-position-1": {
+		"en": "Building Authority, architect",
+		"lv": "Būvvalde, arhitekts",
+		"ru": "Строительное управление, архитектор"
+	},
+	"w-duties-1": {
+		"en": "Examination of building projects for compliance with building legislation, accept",
+		"lv": "Būvprojektu izskatīšana to atbilstībai būvniecības likumdošanai, akcepts"
+	},
+	"location": {
+		"en": "Location",
+		"lv": "Atrašanās vieta",
+		"ru": "Расположение"
+	},
+	"client": {
+		"en": "Customer",
+		"lv": "Pasūtītājs",
+		"ru": "Клиент"
+	},
+	"p-name-1": {
+		"en": "Reconstruction of the Occupation Museum",
+		"lv": "Okupācijas muzeja rekonstrukcija",
+		"ru": "Реконструкция музея оккупации"
+	},
+	"p-location-1": {
+		"en": "Latviešu strēlnieku laukums 1, Riga, Latvia",
+		"lv": "Latviešu strēlnieku laukums 1, Rīga",
+		"ru": "Площадь латышских стрелков 1, Рига, Латвия"
+	},
+	"p-client-1": {
+		"en": "VAS Valsts nekustamie īpašumi",
+		"lv": "VAS Valsts nekustamie īpašumi",
+		"ru":"ГАК \"Государственная недвижимость\""
+	},
+	"p-title-1": {
+		"en": "Construction project analysis and acceptance, supervision",
+		"lv": "Būvprojekta analīze un akcepts, uzraudzība",
+		"ru": "Анализ и приемка строительных проектов, авторский надзор"
+	},
+	"w-place-2": {
+		"en": "Ministry of Environmental Protection and Regional Development",
+		"lv": "Ventspils pilsētas dome",
+		"ru": "Министерство охраны окружающей среды и регионального развития"
+	},
+	"w-period-2": {
+		"en": "12.2016. – 08.2018.",
+		"lv": "12.2016. – 08.2018.",
+		"ru": "12.2016. – 08.2018."
+	},
+	"w-address-2": {
+		"en": "36 Jūras Street, Ventspils, LV-3601, Latvia",
+		"lv": "Jūras iela 36, Ventspils, LV-3601",
+		"ru": "Jūras Street 36, Вентспилс, LV-3601, Латвия"
+	},
+	"w-position-2": {
+		"en": "Quality control of construction projects and construction works",
+		"lv": "Būvniecības kvalitātes kontroles nodaļas vadītāja vietnieks",
+		"ru": "Контроль качества строительных проектов и строительных работ"
+	},
+	"w-duties-2": {
+		"en": "Control of quality of building projects and building works on building objects (2016 - 2018)",
+		"lv": "Būvobjektu, būvprojektu un būvniecības darbu kvalitātes kontrole (2016 - 2018)",
+		"ru": "Контроль качества строительных проектов и строительных работ"
+	},
+	"p-name-2": {
+		"en": "Ventspils Music High School with the function of a concert hall / Concert hall “Latvija”",
+		"lv": "Ventspils mūzikas vidusskola ar koncertzāles funkciju / Koncertzāle “Latvija”",
+		"ru": "Вентспилсская музыкальная средняя школа с функцией концертного зала / концертный зал «Латвия»"
+	},
+	"p-client-2": {
+		"en": "Ventspils City Council",
+		"lv": "Ventspils pilsētas dome",
+		"ru": "Вентспилсская городская дума"
+	},
+	"p-location-2": {
+		"en": "Lielais laukums 1, Ventspils, Latvia",
+		"lv": "Lielais laukums 1, Ventspils",
+		"ru": "Lielais laukums 1, Вентспилс, Латвия"
+	},
+	"p-title-2": {
+		"en": "Quality control of construction project and construction works, compliance with construction norms  (2016.12. - 2019.09.)",
+		"lv": "Būvprojekta un būvdarbu kvalitātes kontrole, atbilstība būvniecības normām (2016.12. - 2019.09.)",
+		"ru": "Контроль качества строительного проекта и строительных работ, соблюдение строительных норм  (2016.12. - 2019.09.)"
+	},
+	"w-place-3": {
+		"en": "“Hill International Baltic”",
+		"lv": "“Hill International Baltic” SIA",
+		"ru": "“Hill International Baltic”"
+	},
+	"w-period-3": {
+		"en": "03.2010. – 12.2015.",
+		"lv": "03.2010. – 12.2015.",
+		"ru": "03.2010. – 12.2015."
+	},
+	"w-address-3": {
+		"en": "Apt. 1, 15 Elizabetes Street, LV-1010, Riga, Latvia",
+		"lv": "Elizabetes iela 15-1, LV-1010, Rīga",
+		"ru": "Улица Элизабетес 15-1, LV-1010, Рига, Латвия"
+	},
+	"w-position-3": {
+		"en": "Field supervision group manager, technical director",
+		"lv": "Autoruzraudzības grupas vadītājs, tehniskais direktors"
+	},
+	"w-duties-3": {
+		"en": "Project management, author supervision group management, author supervision",
+		"lv": "Projektu vadība, autoruzraudzības grupas vadība, autoruzraudzība",
+		"ru": "Управление проектами, управление группой авторского надзора, авторский надзор"
+	},
+	"p-name-3": {
+		"en": "National Library of Latvia",
+		"lv": "Latvijas Nacionālā bibliotēka",
+		"ru": "Национальная библиотека Латвии"
+	},
+	"p-location-3": {
+		"en": "Riga, Mūkusalas street 5, quarter between Uzvaras blv., Valguma, Akmens streets and Daugava",
+		"lv": "Rīga, Mūkusalas iela 5, kvartāls starp Uzvaras blv., Valguma, Akmens ielām un Daugavu",
+		"ru": "Рига, улица Мукусалас 5, квартал между бул. Узварас, улицами Валгума, Акменс и Даугавой"
+	},
+	"p-client-3": {
+		"en": "Ministry of Culture of the Republic of Latvia",
+		"lv": "LR Kultūras ministrija",
+		"ru": "Министерство культуры Латвийской Республики"
+	},
+	"p-title-3": {
+		"en": "Author supervision team leader (2005 - 2015)",
+		"lv": "Autoruzraudzības grupas vadītājs (2005 - 2015)",
+		"ru":"Руководитель группы авторского надзора (2005 - 2015)"
+	},
+	"p-name-4": {
+		"en": "Participation in international construction projects",
+		"lv": "Līdzdalība starptautiskos būvniecības projektos",
+		"ru": "Участие в международных строительных проектах"
+	},
+	"w-place-4": {
+		"en": "“GSA projekts”",
+		"lv": "“GSA projekts” SIA",
+		"ru": "“GSA projekts”"
+	},
+	"w-period-4": {
+		"en": "10.2005. – currently",
+		"lv": "10.2005. – šobrīd",
+		"ru": "10.2005. – В настоящее время"
+	},
+	"w-address-4": {
+		"en": "Apt. 9, 9A Pulkveža Brieža Iela, LV-1010, Riga, Latvia",
+		"lv": "Pulkveža Brieža iela 9A-9, Rīga, LV-1010",
+		"ru": "Улица Пулквежа Бриежа 9A-9, Рига, LV-1010"
+	},
+	"w-position-4": {
+		"en": "Project chief architect, member of the Board, Chair of the Board",
+		"lv": "Projektu galvenais arhitekts, valdes loceklis",
+		"ru": "Главный архитектор проекта, член правления"
+	},
+	"w-duties-4": {
+		"en": "Project management, development of architectural solutions, field supervision",
+		"lv": "Projektu vadība, arhitektūras risinājumu izstrāde, autoruzraudzība",
+		"ru": "Управление проектами, разработка архитектурных решений, авторский надзор"
+	},
+	"p-name-5": {
+		"en": "Multifunctional complex \"Baku Tower\"",
+		"lv": "Daudzfunkcionālais komplekss “Baku Tower”",
+		"ru": "Многофункциональный комплекс «Бакинская башня»"
+	},
+	"p-location-5": {
+		"en": "Haydar Aliyev avenue 109, Baku, Azerbaijan",
+		"lv": "Haydar Aliyev avenue 109, Baku, Azerbaidžāna",
+		"ru": "Проспект Гейдара Алиева 109, Баку, Азербайджан"
+	},
+	"p-client-5": {
+		"en": "Azvil Tikinti",
+		"lv": "Azvil Tikinti",
+		"ru": "Azvil Tikinti"
+	},
+	"p-title-5": {
+		"en": "Construction project manager (2018 - 2020)",
+		"lv": "Būvprojekta vadītājs (2018 - 2020)",
+		"ru": "Менеджер строительных проектов (2018 - 2020)"
+	},
+	"p-name-6": {
+		"en": "Project of Reconstruction of State JSC LVRTC Riga Radio and Television Station",
+		"lv": "VAS “Latvijas Valsts radio un televīzijas centrs” Rīgas radio un televīzijas stacijas pārbūves PROJEKTS"
+	},
+	"p-short-name-6": {
+		"en": "Project of Reconstruction of Riga Radio and Television Station",
+		"lv": "Rīgas radio un televīzijas stacijas pārbūves PROJEKTS",
+		"ru": "Реконструкция Рижской радиотелевизионной станции"
+	},
+	"p-location-6": {
+		"en": "1 Zaķusalas krastmala, Riga, Latvia",
+		"lv": "Zaķusalas krastmala 1, Rīga",
+		"ru": "Набережная Закюсала 1, Рига, Латвия"
+	},
+	"p-client-6": {
+		"en": "LLC “Nams”",
+		"lv": "“Nams” SIA",
+		"ru":""
+	},
+	"p-title-6": {
+		"en": "Project manager (2017.04. - 2019.07.)",
+		"lv": "Projekta vadītājs (2017.04. - 2019.07.)",
+		"ru": "Руководитель проекта (2017.04. - 2019.07.)"
+	},
+	"p-name-7": {
+		"en": "Multifunctional complex \"Z-Towers\"",
+		"lv": "Daudzfunkcionālais komplekss “Z-Towers”",
+		"ru": "Многофункциональный комплекс \"Z-Towers\""
+	},
+	"p-location-7": {
+		"en": "30 Raņķa dambis, Riga, Latvia",
+		"lv": "Raņķa dambis 30, Rīga",
+		"ru": "Raņķa dambis 30, Riga"
+	},
+	"p-client-7": {
+		"en": "“Towers Construction Management”",
+		"lv": "“Towers Construction Management” AS",
+		"ru": "«Towers Construction Management»"
+	},
+	"p-title-7": {
+		"en": "Construction project manager, author supervision group leader (2017. - 2019.)",
+		"lv": "Būvprojekta vadītājs, autoruzraudzības grupas vadītājs (2017. - 2019.)",
+		"ru": "Руководитель строительного проекта, руководитель группы авторского надзора (2017. - 2019.)"
+	},
+	"p-name-8": {
+		"en": "Concert Hall \"Big Amber\"",
+		"lv": "Koncertzāle “Lielais dzintars”",
+		"ru": "Концертный зал «Большой янтарь»"
+	},
+	"p-location-8": {
+		"en": "Radio Street 8, Liepāja",
+		"lv": "Radio iela 8, Liepāja",
+		"ru": "Radio 8, Лиепая"
+	},
+	"p-client-8": {
+		"en": "Liepaja City Council",
+		"lv": "Liepājas pilsētas Dome",
+		"ru": "Лиепайский городской совет"
+	},
+	"p-title-8": {
+		"en": "Author supervision team leader (2013.08.-2014.03.)",
+		"lv": "Autoruzraudzības grupas vadītājs (2013.08.-2014.03.)",
+		"ru": "Руководитель группы авторского надзора (2013.08.-2014.03.)"
+	},
+	"p-name-short-9": {
+		"en": "Infrastructure Objects of the Latvian National Library",
+		"lv": "Latvijas Nacionālās bibliotēkas teritorijas infrastruktūras objekti"
+	},
+	"p-name-9": {
+		"en": "Latvian National Library territory infrastructure objects - multifunctional office - technical building, engineering communications, transport and pedestrian traffic organization.",
+		"lv": "Latvijas Nacionālās bibliotēkas teritorijas infrastruktūras objekti - daudzfunkcionālā biroju - tehniskā ēka, inženierkomunikācijas, transporta un gājēju kustības organizācija, labiekārtojums."
+	},
+	"p-location-9": {
+		"en": "Riga, Mūkusalas street 5, quarter between Uzvaras blv., Valguma, Akmens streets and Daugava",
+		"lv": "Kvartāls starp Uzvaras blv., Valguma, Akmens ielām un Daugavu, Mūkusalas iela 5, Rīga, LV-1423",
+		"ru": "Рига, улица Мукусалас 5, квартал между бул. Узварас, улицами Валгума, Акменс и Даугавой"
+	},
+	"p-client-9": {
+		"en": "Ministry of Culture of the Republic of Latvia",
+		"lv": "LR Kultūras ministrija",
+		"ru": "Министерство культуры Латвийской Республики"
+	},
+	"p-title-9": {
+		"en": "Construction project manager (2007 - 2015)",
+		"lv": "Būvprojekta vadītājs (2007 - 2015)",
+		"ru": "Менеджер строительных проектов (2007 - 2015)"
+	},
+	"p-description-9": {
+		"en": "The technical project of the infrastructure objects of the LNL territory consisted of a multifunctional technical building, open temporary parking lot, reconstruction of intersections and sidewalks, facilities between the LNL building, Mukusalas and Akmenu streets, revitalization of water supply and sewerage systems, construction of refrigerating plant’s cooling main networks, connection to the existing heating main, relocation of the existing low voltage network duct and other improvements",
+		"lv": "LNB teritorijas infrastruktūras objektu tehniskais projekts sastāvēja no daudzfunkcionālās tehniskās ēkas, atklātas pagaidu stāvvietas, krustojumu un ietvju rekonstrukcijas, labiekārtojuma starp LNB ēku, Mūkusalas un Akmeņu ielām, ūdensvadu un kanalizācijas sistēmu revitalizācijas, aukstuma centra dzesēšanas maģistrālo tīklu izveides, aukstumapgādes tīklu izveides, tehniskās ēkas pieslēguma esošajai siltumtrasei, esošās vājstrāvu tīklu kanalizācijas pārnešanas un citiem uzlabojumiem"
+	},
+	"p-name-10": {
+		"en": "Construction projects of public, residential and industrial buildings",
+		"lv": "Sabiedrisko, dzīvojamo un ražošanas ēku būvprojekti",
+		"ru": "Проекты строительства общественных, жилых и промышленных зданий"
+	},
+	"p-title-10": {
+		"en": "Author of construction projects, head of construction projects and author supervision group",
+		"lv": "Būvprojektu autors, būvprojektu un autoruzraudzības grupas vadītājs",
+		"ru": "Автор строительных проектов, руководитель строительных проектов и группы авторского надзора."
+	},
+	"w-place-5": {
+		"en": "“Arhetips”",
+		"lv": "“Arhetips” SIA",
+		"ru": "“Arhetips”"
+	},
+	"w-period-5": {
+		"en": "09.1995. – currently",
+		"lv": "09.1995. – šobrīd",
+		"ru": "09.1995. - В настоящее время"
+	},
+	"w-address-5": {
+		"en": "Apt. 9, 9A Pulkveža Brieža Iela, LV-1010, Riga, Latvia",
+		"lv": "Pulkv. Brieža iela 9A-9, LV-1010, Rīga",
+		"ru": "Pulkv. Brieža 9A-9, LV-1010, Riga"
+	},
+	"w-position-5": {
+		"en": "Project chief architect, chairman of the board",
+		"lv": "Projektu galvenais arhitekts, valdes priekšsēdētājs",
+		"ru": "Главный архитектор проекта, председатель правления"
+	},
+	"w-duties-5": {
+		"en": "Project management, development of architectural solutions, author supervision",
+		"lv": "Projektu vadība, arhitektūras risinājumu izstrāde, autoruzraudzība",
+		"ru": "Управление проектами, разработка архитектурных решений, авторский надзор"
+	},
+	"p-name-11": {
+		"en": "Construction projects of public, residential and industrial buildings",
+		"lv": "Sabiedrisko, dzīvojamo un ražošanas ēku būvprojekti",
+		"ru": "Проекты строительства общественных, жилых и промышленных зданий"
+	},
+	"p-title-11": {
+		"en": "Author of construction projects, head of construction projects and author supervision group",
+		"lv": "Būvprojektu autors, būvprojektu un autoruzraudzības grupas vadītājs",
+		"ru": "Автор строительных проектов, руководитель строительных проектов и группы авторского надзора."
+	},
+	"w-place-6": {
+		"en": "“Arhitekta Modra Ģelža birojs”",
+		"lv": "“Arhitekta Modra Ģelža birojs” SIA",
+		"ru": "“Arhitekta Modra Ģelža birojs”"
+	},
+	"w-period-6": {
+		"en": "11.1991.- 09.1995.",
+		"lv": "11.1991.- 09.1995.",
+		"ru": "11.1991.- 09.1995."
+	},
+	"w-address-6": {
+		"en": "21 Skolas Iela, LV-1010, Riga, Latvia",
+		"lv": "Skolas iela 21, LV-1010, Rīga",
+		"ru": "Skolas iela 21, LV-1010, Rīga"
+	},
+	"w-position-6": {
+		"en": "Architect",
+		"lv": "Arhitekts",
+		"ru": "Архитектор"
+	},
+	"w-duties-6": {
+		"en": "Development of architectural solutions",
+		"lv": "Arhitektūras risinājumu izstrāde",
+		"ru": "Разработка архитектурных решений"
+	},
+	"w-place-7": {
+		"en": "Architect's workshop “AB 10-4”",
+		"lv": "Arhitektu darbnīca “AB 10-4”",
+		"ru": "Мастерская архитектора “AB 10-4”"
+	},
+	"w-period-7": {
+		"en": "08.1990.- 11.1991.",
+		"lv": "08.1990.- 11.1991.",
+		"ru": "08.1990.- 11.1991."
+	},
+	"w-address-7": {
+		"en": "21 Skolas Iela, LV-1010, Riga, Latvia",
+		"lv": "Skolas iela 21, LV-1010, Rīga",
+		"ru": "Skolas iela 21, LV-1010, Rīga"
+	},
+	"w-position-7": {
+		"en": "Architect",
+		"lv": "Arhitekts",
+		"ru": "Архитектор"
+	},
+	"w-duties-7": {
+		"en": "Development of architectural solutions",
+		"lv": "Arhitektūras risinājumu izstrāde",
+		"ru": "Разработка архитектурных решений"
+	},
+	"w-place-8": {
+		"en": "Architect's workshop No.8",
+		"lv": "Arhitektu darbnīca Nr.8",
+		"ru": "Мастерская архитектора №8"
+	},
+	"w-period-8": {
+		"en": "02.1989.- 08.1990.",
+		"lv": "02.1989.- 08.1990.",
+		"ru": "02.1989.- 08.1990."
+	},
+	"w-address-8": {
+		"en": "Skolas Street 21, LV-1010, Riga, Latvia",
+		"lv": "Skolas iela 21, LV-1010, Rīga",
+		"ru": "Skolas Street 21, LV-1010, Рига, Латвия"
+	},
+	"w-position-8": {
+		"en": "Assistant of an architect",
+		"lv": "Arhitekta palīgs",
+		"ru": "Помощник архитектора"
+	},
+	"w-duties-8": {
+		"en": "Development of architectural solutions",
+		"lv": "Arhitektūras risinājumu izstrāde",
+		"ru": "Разработка архитектурных решений"
+	},
+	"lldz-title": {
+		"en": "Liepāja Concert Hall Great Amber",
+		"lv": "Liepājas Lielais Dzintars",
+		"ru": "Лиепайский концертный зал Большой Янтарь"
+	},
+	"lldz-description": {
+		"en": "The Great Amber Concert Hall is a regional cultural and event centre and the home of the Liepāja Symphony Orchestra, the Secondary School of Arts and Design and SIA “Lielais Dzintars”, the building’s management and event production company. The multi-functional centre is eight floors high. It consists of three concert halls: Large Hall with 1000 seats, Chamber Hall with 200 seats and Experimental Stage with 120 seats. It also features the Civita Nova art room on the 1st floor, the Mirror Hall on the 6th floor, and cafeteria ‘Čello’.",
+		"lv": "Koncertzāle „Lielais dzintars\" ir reģionālu kultūras un pasākumu norišu centrs, mājvieta Liepājas Simfoniskajam orķestrim, Liepājas Mūzikas, mākslas un dizaina vidusskolai, kā arī ēkas apsaimniekotājam un pasākumu producentiem - SIA „Lielais Dzintars\". Multifunkcionālais centrs „Lielais dzintars\" ir izvietots astoņu stāvu augstumā. Tajā darbojas trīs koncertzāles - Lielā zāle ar 1000 skatītāju vietām, Kamerzāle – ar 200 vietām un Eksperimentālā skatuve ar 120 vietām, kuras papildina mākslas telpa Civita Nova ēkas 1.stāvā, spoguļu zāle 6.stāvā, kā arī kafejnīca un restorāns \"Čello\". "
+	},
+	"lldz-description-full": {
+		"en": "The Great Amber Concert Hall is a regional cultural and event centre and the home of the Liepāja Symphony Orchestra, the Secondary School of Arts and Design and SIA “Lielais Dzintars”, the building’s management and event production company. The multi-functional centre is eight floors high. It consists of three concert halls: Large Hall with 1000 seats, Chamber Hall with 200 seats and Experimental Stage with 120 seats. It also features the Civita Nova art room on the 1st floor, the Mirror Hall on the 6th floor, and cafeteria ‘Čello’. The basis of the Austrian architect Prof. Volker Giencke’s architectural concept for the Concert Hall is amber – the symbol of Latvia and Liepāja (the city located by the Baltic Sea). It also symbolizes the building’s function as an art and culture centre.  The acoustics and lighting have been created by global industry leaders Prof. Karlheinz Müller (Müller-BBM, Germany) and Bartenbach (Germany) lead by its founder Prof. Christian Bartenbach.",
+		"lv": "Koncertzāle „Lielais dzintars\" ir reģionālu kultūras un pasākumu norišu centrs, mājvieta Liepājas Simfoniskajam orķestrim, Liepājas Mūzikas, mākslas un dizaina vidusskolai, kā arī ēkas apsaimniekotājam un pasākumu producentiem - SIA „Lielais Dzintars\". Multifunkcionālais centrs „Lielais dzintars\" ir izvietots astoņu stāvu augstumā. Tajā darbojas trīs koncertzāles - Lielā zāle ar 1000 skatītāju vietām, Kamerzāle – ar 200 vietām un Eksperimentālā skatuve ar 120 vietām, kuras papildina mākslas telpa Civita Nova ēkas 1.stāvā, spoguļu zāle 6.stāvā, kā arī kafejnīca un restorāns \"Čello\". Austriešu arhitekta, Prof. Folkera Gīnkes veidotā koncertzāles arhitektoniskā koncepta pamatā ir Latvijas un Baltijas jūras krastā esošais Liepājas simbols – dzintars, kā arī tās funkcija kā mākslas un kultūras centram.  Koncertzāles akustiku un apgaismojumu veidojuši pasaules līderi savā jomā: Prof. Karlheincs Millers (Müller-BBM, Vācija) un Bartenbach (Vācija) tās dibinātāja Prof. Kristiāna Bartenbaha vadībā. "
+	},
+	"lldz-duties": {
+		"en": "Head of Author supervision team (August 2013 – March 2014)",
+		"lv": "Autoruzraudzības grupas vadītājs (2013. Augusts - 2014. Marts)",
+		"ru": "Руководитель группы авторского надзора (август 2013 г. - март 2014 г.)"
+	},
+	"collab": {
+		"en": "Collaboration partners",
+		"lv": "Sadarbības partneri",
+		"ru": "Партнеры по сотрудничеству"
+	},
+	"dzintars-partner-1": {
+		"en": "“Giencke & Company”, Austria",
+		"lv": "“Giencke & Company”, Austrija",
+		"ru": "«Giencke & Company», Австрия"
+	},
+	"dzintars-partner-2": {
+		"en": "General Partnership Company “Giencke & Company- Latvija”",
+		"lv": "Pilnsabiedrības uzņēmums “Giencke & Company- Latvija”",
+		"ru": "Полное товарищество «Giencke & Company- Латвия»"
+	},
+	"dzintars-partner-3": {
+		"en": "LLC “Arhitekta J. Pogas birojs” (technical specifications, general layout, architectural solutions)",
+		"lv": "SIA “Arhitekta J. Pogas birojs” (tehniskās specifikācija, izkārtojums, arhitektūras risinājumi)",
+		"ru": "SIA “Arhitekta J. Pogas birojs” (технические условия, генплан, архитектурные решения)"
+	},
+	"dzintars-partner-4": {
+		"en": "LLC \"E.Daniševska birojs\" (road works)",
+		"lv": "SIA \"E.Daniševska birojs\" (ceļa darbi)",
+		"ru": "SIA \"E.Daniševska birojs\" (дорожные работы)"
+	},
+	"dzintars-partner-5": {
+		"en": "Johan Birner DI, Zivilingenieur fur Bauwesen, Austria",
+		"lv": "Johan Birner DI, Zivilingenieur fur Bauwesen, Austrija",
+		"ru": "Johan Birner DI, Zivilingenieur fur Bauwesen, Австрия"
+	},
+	"dzintars-partner-6": {
+		"en": "LLC \"Būvinženieru Konsultāciju Birojs\" (building structures)",
+		"lv": "SIA \"Būvinženieru Konsultāciju Birojs\" (building structures)",
+		"ru": "SIA \"Būvinženieru Konsultāciju Birojs\" (строительные конструкции)"
+	},
+	"dzintars-partner-7": {
+		"en": "LLC \"Constructus\", E.Kviesis – engineering solutions management",
+		"lv": "SIA \"Constructus\", E.Kviesis – inženierrisinājumu vadība",
+		"ru": "SIA \"Constructus\", E.Kviesis - управление инженерными решениями"
+	},
+	"dzintars-partner-8": {
+		"en": "LLC „Jensen Consult un Arhis inženieri” (internal and external water supply and sewerage)",
+		"lv": "SIA „Jensen Consult un Arhis inženieri” (iekšējā un ārējā ūdensapgāde un kanalizācija)",
+		"ru": "SIA „Jensen Consult un Arhis inženieri” (внутреннее и внешнее водоснабжение и канализация)"
+	},
+	"dzintars-partner-9": {
+		"en": "LLC „MXM” (internal and external power supply)",
+		"lv": "SIA „MXM” (iekšējā un ārējā elektroapgāde)",
+		"ru": "SIA „MXM” (внутреннее и внешнее электроснабжение)"
+	},
+	"dzintars-partner-10": {
+		"en": "LLC „NT Projekts”",
+		"lv": "SIA „NT Projekts”",
+		"ru": "SIA „NT Projekts”"
+	},
+	"dzintars-partner-11": {
+		"en": "LLC „Constructus” (HVAC)",
+		"lv": "SIA „Constructus” (HVAC)",
+		"ru": "SIA „Constructus” (HVAC)"
+	},
+	"dzintars-partner-12": {
+		"en": "LLC „KĀRLIS” (video systems)",
+		"lv": "SIA „KĀRLIS” (video sistēmas)",
+		"ru": "SIA „KĀRLIS” (видеосистемы)"
+	},
+	"dzintars-partner-13": {
+		"en": "LLC „O3fm”(BMS)",
+		"lv": "SIA „O3fm”(BMS)",
+		"ru": "SIA „O3fm”(BMS)"
+	},
+	"dzintars-partner-14": {
+		"en": "LLC „GP PROJEKTU BIROJS” (works organisation project)",
+		"lv": "SIA „GP PROJEKTU BIROJS” (darbu organizācijas projekts)",
+		"ru": "SIA „GP PROJEKTU BIROJS” (проект организации работы)"
+	},
+	"dzintars-partner-15": {
+		"en": "Müller BBM, G.Kozlovskis (AK);",
+		"lv": "Müller BBM, G.Kozlovskis (AK);",
+		"ru": "Müller BBM, G.Kozlovskis (AK);"
+	},
+	"dzintars-partner-16": {
+		"en": "LLC „F7” (cost estimates)",
+		"lv": "SIA „F7” (izmaksu aplēses)",
+		"ru": "SIA „F7” (смета расходов)"
+	},
+	"object-data": {
+		"en": "Object technical details",
+		"lv": "Objekta tehniskie dati",
+		"ru": "Технические характеристики объекта"
+	},
+	"building-data": {
+		"en": "Building characteristics",
+		"lv": "Apbūves raksturojums"
+	},
+	"object-description": {
+		"en": "Building characteristics",
+		"lv": "Ēkas raksturojums"
+	},
+	"object-parcel-area": {
+		"en": "Land parcel area",
+		"lv": "Zemes gabala platība",
+		"ru": "Площадь земельного участка"
+	},
+	"object-total-area": {
+		"en": "Total building area",
+		"lv": "Ēkas kopējā platība",
+		"ru": "Общая площадь здания"
+	},
+	"object-total-ground-area": {
+		"en": "Total area of land parcel",
+		"lv": "Zemesgabala kopējā platība"
+	},
+	"object-construction-area": {
+		"en": "Building area",
+		"lv": "Apbūves laukums",
+		"ru": "Площадь застройки"
+	},
+	"object-road-area": {
+		"en": "Access road and parking lot area",
+		"lv": "Piebraucamo ceļu, autostāvvietu platība"
+	},
+	"object-bulding": {
+		"en": "Building area",
+		"lv": "Ēkas platība"
+	},
+	"object-cubic": {
+		"en": "Building volume",
+		"lv": "Ēkas kubatūra"
+	},
+	"useful-area": {
+		"en": "Useful area",
+		"lv": "Lietderīgā platība"
+	},
+	"object-volume": {
+		"en": "Building volume",
+		"lv": "Ēkas būvtilpums",
+		"ru": "Строительный объем здания"
+	},
+	"object-building": {
+		"en": "Construction of the building",
+		"lv": "Ēkas būvniecība"
+	},
+	"object-supervision": {
+		"en": "Construction supervision",
+		"lv": "Būvuzraudzība"
+	},
+	"object-author-supervision": {
+		"en": "Author supervision",
+		"lv": "Autoruzraudzība"
+	},
+	"year-2015": {
+		"en": "2015",
+		"lv": "2015. gads"
+	},
+	"object-road-field-area": {
+		"en": "Road and field area",
+		"lv": "Ceļu un laukumu platība",
+		"ru": "Дорога и поле"
+	},
+	"object-greenery-area": {
+		"en": "Greenery area",
+		"lv": "Apstādijumu platība",
+		"ru": "Зеленая зона"
+	},
+	"additional-information": {
+		"en": "Additional information",
+		"lv": "Papildus informācija",
+		"ru": "Дополнительная информация"
+	},
+	"more-information": {
+		"en": "More information",
+		"lv": "Vairāk informācijas",
+		"ru": "Больше информации"
+	},
+	"lnb-tech": {
+		"en": "Building height — 68.3m, length — 170m, width — 44m, total area — 40 455m², volume — 263 000m³, 648 rooms in total",
+		"lv": "Ēkas augstums – 68.3m, garums – 170m, platums – 44m, kopējā platība – 40 455m², apjoms – 263 000m³, kopā 648 telpas"
+	},
+	"lnb-description-more": {
+		"en": "The main building of the National Library of Latvia, also called the Castle of Light, is the building of the National Library of Latvia at 3 Mūkusalas Street, Pardaugava, which was opened to visitors on June 12, 2014. The official opening of the building took place on August 29.",
+		"lv": "Latvijas Nacionālās bibliotēkas galvenā ēka, saukta arī par Gaismas pili, ir Latvijas Nacionālās bibliotēkas ēka Mūkusalas ielā 3, Pārdaugavā, kas atvērta apmeklētājiem 2014. gada 12. jūnijā. Oficiāla ēkas atklāšana notika 29. augustā.",
+		"ru": "Главное здание Латвийской Национальной библиотеки, также называемое Замком Света, - это здание Латвийской Национальной библиотеки на улице Мукусалас 3, Пардаугава, которое было открыто для посетителей 12 июня 2014 года. Официальное открытие здания состоялось 29 августа."
+	},
+	"lnb-partner-1": {
+		"en": "Project author — Gunārs Birkerts (“Gunnar Birkerts & Associates”)",
+		"lv": "Gunārs Birkerts („Gunnar Birkerts & Associates”) - projekta autors",
+		"ru": "Gunārs Birkerts („Gunnar Birkerts & Associates”) - автор проекта"
+	},
+	"lnb-partner-2": {
+		"en": "Construction project management — “Hill International Baltic” (E. Kalniņš, M. Mežulis), “Arhitektu birojs Ģelzis-Šmits-Arhetips” (“GSA projekts”) (M. Ģelzis, M. Mežulis).",
+		"lv": "„LERA, Leslie E. Robertson Associates Structural Engineers” (ASV)",
+		"ru": "„LERA, Leslie E. Robertson Associates Structural Engineers” (США)"
+	},
+	"lnb-partner-3": {
+		"en": "Architectural part and master plan — “Arhetips” (M. Mežulis, A. Arbidāns, Z. Janele), “Arhitekta Modra Ģelža birojs” (M. Ģelzis, S. Laganovska), “RDS arhitekti” (R. D. Šmits).",
+		"lv": "„Arhitekta Modra Ģelža birojs” - arhitektūras daļa un ģenplāns, interjers",
+		"ru": "„Arhitekta Modra Ģelža birojs” - архитектурная часть и генеральный план, интерьер"
+	},
+	"lnb-partner-4": {
+		"en": "Building structures — “LERA, Leslie E. Robertson Associates Structural Engineers” (USA), “Būvinženieru konsultāciju birojs”.",
+		"lv": "„Hill International Baltic” - būvprojekta vadība",
+		"ru": "„Hill International Baltic” - управление строительными проектами"
+	},
+	"lnb-partner-5": {
+		"en": "Engineering parts — “Constructus”, “Jensen Consult & Arhis inženieri”, “N&T Projekts”, “Kārlis”, “O3FM”, “FF Signāls”, “Latcoals”, “E. Daniševska birojs”, “Joseph R. Loring and Associates Inc. Consulting Engineers”.",
+		"lv": "„Jensen Consult & Arhis inženieri” - inženierdaļas",
+		"ru": "„Jensen Consult & Arhis inženieri” - инженерные части"
+	},
+	"lnb-partner-6": {
+		"en": "Interior design — Architectural part and master plan — “Arhetips” (M. Mežulis, A. Arbidāns, Z. Janele), “Arhitekta Modra Ģelža birojs” (M. Ģelzis, S. Laganovska), “RDS arhitekti” (R. D. Šmits).",
+		"lv": "„N&T Projekts” - inženierdaļas",
+		"ru": "„N&T Projekts” - инженерные части"
+	},
+	"ventspils-partner-1": {
+		"en": "Haascook zemmrich STUDIO2050",
+		"lv": "Haascook zemmrich STUDIO2050",
+		"ru": "Haascook zemmrich STUDIO2050"
+	},
+	"ventspils-partner-2": {
+		"en": "PS ”studioMSV”",
+		"lv": "PS ”studioMSV”",
+		"ru": "PS ”studioMSV”"
+	},
+	"ventspils-partner-3": {
+		"en": "LLC „Arhstudio25”",
+		"lv": "SIA „Arhstudio25”",
+		"ru": "SIA „Arhstudio25”"
+	},
+	"ventspils-partner-4": {
+		"en": "Schlaich Bergermann & Partner",
+		"lv": "Schlaich Bergermann & Partner",
+		"ru": "Schlaich Bergermann & Partner"
+	},
+	"ventspils-partner-5": {
+		"en": "LLC „Būvinženieru konsultāciju birojs”",
+		"lv": "SIA „Būvinženieru konsultāciju birojs”",
+		"ru": "SIA „Būvinženieru konsultāciju birojs”"
+	},
+	"ventspils-partner-6": {
+		"en": "Transsolar Energietechnik GmbH",
+		"lv": "Transsolar Energietechnik GmbH",
+		"ru": "Transsolar Energietechnik GmbH"
+	},
+	"ventspils-partner-7": {
+		"en": "LLC „Friteks”",
+		"lv": "SIA „Friteks”",
+		"ru": "SIA „Friteks”"
+	},
+	"ventspils-partner-8": {
+		"en": "LLC „Inženiertehniskie projekti”",
+		"lv": "SIA „Inženiertehniskie projekti”",
+		"ru": "SIA „Inženiertehniskie projekti”"
+	},
+	"ventspils-partner-9": {
+		"en": "LLC „Fima”",
+		"lv": "SIA „Fima”",
+		"ru": "SIA „Fima”"
+	},
+	"ventspils-partner-10": {
+		"en": "LLC „Glamma”",
+		"lv": "SIA „Glamma”",
+		"ru": "SIA „Glamma”"
+	},
+	"ventspils-partner-11": {
+		"en": "Müller BBM GmbH",
+		"lv": "Müller BBM GmbH",
+		"ru": "Müller BBM GmbH"
+	},
+	"ventspils-partner-12": {
+		"en": "LLC „Audio AE”",
+		"lv": "SIA „Audio AE”",
+		"ru": "SIA „Audio AE”"
+	},
+	"ventspils-partner-13": {
+		"en": "Orgelbau GmbH Co KG",
+		"lv": "Orgelbau GmbH Co KG",
+		"ru": "Orgelbau GmbH Co KG"
+	},
+	"ventspils-partner-14": {
+		"en": "LLC „Northproject”",
+		"lv": "SIA „Northproject”",
+		"ru": "SIA „Northproject”"
+	},
+	"ventspils-description-long": {
+		"en": "Due to their multifunctionality, groups of the functional rooms of the complex can operate autonomously or together depending on the need. The flow of visitors is mainly divided into: music school function, concert hall function for visitors, concert hall function for event participants. The pride of the concert hall is undoubtedly the impeccable acoustic indicators, which have been recognized as excellent by both industry professionals and Latvian and foreign artists.",
+		"lv": "Būvprojekta ģenerālprojektētājs ir Vācijas arhitektu birojs „haascookzemmrich STUDIO2050” (projekta autors, arhitekts David Cook, kura piedāvātais risinājums uzvarēja starptautiskajā arhitektūras konkursā). „haascookzemmrich STUDIO2050” apakšuzņēmēji ir Vācijas inženieru kompānijas, kas kā konsultanti deva principiālus risinājumus un aprēķinus inženiertehniskajās sadaļās (būvkonstrukcijas, apkure, vēdināšana un kondicionēšana, kā arī energoefektivitāte), akustikā, kā arī tehnoloģijās (skatuves iekārtas, gaismas). No Latvijas puses apakšuzņēmējs ir PS „Studio MSV”, kas vada un koordinē būvprojekta tehnisko izstrādi ar Latvijas projektētājiem, balstoties uz Vācijas speciālistu dotajiem priekšlikumiem. Plānojuma risinājumi Savas multifunkcionalitātes dēļ dažādu funkcionālās kompleksa telpu grupas var darboties autonomi, vai arī kopīgi atkarībā no nepieciešamības. Apmeklētāju plūsmas pamatā sadalās: · Mūzikas skolas funkcija. · Koncertzāles funkcija apmeklētājiem. · Koncertzāles funkcija pasākumu dalībniekiem. Mūzikas skolas funkcija. Pirmā stāva līmenī mūzikas skolai ir autonoma ieeja no Lielā laukuma. Mazā zāle tiek izmantota kā mūzikas skolas mēģinājuma telpa. Ja publiskie pasākumi notiek mazajā zālē paralēli pasākumam lielajā zālē, tad skolas ieeja kalpo šim gadījumam (ir vestibils, apmeklētāju tualetes). Otrā stāva līmenī mūzikas skolas nodarbību telpas izkārtojas gar gaiteni, kas aptver lielo zāli. Bibliotēkas telpa izvietojas ātrijā, kas ļauj to izmantot arī citiem apmeklētājiem, netraucējot skolas iekšējo kārtību. Trešais stāvs pilnībā ir mūzikas skolas rīcībā. Audzēkņiem ir iespējas kā rekreāciju izmantot ātriju. Koncertzāles funkcija apmeklētājiem. Koncertzāles apmeklētāji ienāk ātrijā pa galveno ieeju no Lielā laukuma puses. Ātrijā 1.stāvā izvietojas telpas, kas nepieciešamas apmeklētājiem, proti, informācijas un biļešu bokss, kafejnīca, tualetes, garderobe. No ātrija apmeklētāji pa taisno nonāk lielajā zālē. Ātrijs ir nodalāms no pārējam  funkcionālajām objekta telpu grupām. 2.stāva līmenī no ātrija apmeklētāji tieši nonāk lielās zāles balkonā. Apmeklētāji, ja to atļauj objekta lietotājs, var izmantot arī bibliotēku, „green room”, kurā var notikt dažādi citi publiskie pasākumi nelielajai auditorijai. Ātrijs ir nodalāms no pārējam funkcionālajām objekta telpu grupām. Koncertzāles funkcija pasākuma dalībniekiem. Lielās zāles aizmugures daļa tiek izmantota arī kā aizskatuve. Piegāde tiek organizēta pa atsevišķu ieeju no pagalma puses. Te ir īss ceļš gan uz lielās gan arī mazās zāles skatuvēm. Pasākuma dalībniekiem (mākslinieki, apkalpojošais personāls) ir sava ieeja no pagalma puses. ī ieeja tiek kontrolēta. Virkne mūzikas skolas nodarbību telpas var tikt izmantot arī kā mākslinieku ģērbtuves. Arī 2.stāva līmenī aizskatuve darbojas šķirti no pārējā kompleksa. Šajā stāvā mūzikas skolas telpas var tikt izmantot kā koristu ģērbtuves. No šī līmeņa koris tieši iziet uz kora balkonu lielajā zālē.  Ēkas konstruktīvo shēmu veido monolīta dz/b nesošās vertikālās un horizontālās konstrukcijas. Slodze no augšējo stāvu pārsegumiem caur sijām un sienām tiek nodota uz 1. st. un pagrabstāva sienām un kolonnām, tālāk uz atsevišķiem un lentveida režģogiem, caur tiem – uz urbto pāļu pamatiem. Ēkas telpisko noturību galvenokārt nodrošina dzb. garensienas un šķērssienas un liftu dz/b sienas abos virzienos. Virs 4. stāva projektētas tērauda jumta nesošās konstrukcijas. Jumta konstrukcijas izgatavota no velmētiem dubult-t vai RHS tipa profiliem un metinātiem dubult-t profiliem, pārseguma kopnes pamatā izgatavotas no velmētiem RHS tipa profiliem, pielietojamo tērauda elementu šķērsgriezumu un materiālu standarti atbilstoši projekta dokumentācijai. Jumta konstrukcija tiek balstīta uz trapecveida tērauda nesošā profila ar augstumu 135 mm.  Koncertzāles “Latvija” Lielajā zālē atrodas divi pasaules līmeņa, unikāli mūzikas instrumenti – manuālās akustiskās koncertērģeles, kas tapušas uzņēmumā \"Johannes Klais Orgelbau GmbH & Co. KG\" Vācijā, un šobrīd pasaulē lielākās vertikālās koncertklavieres, ko radījis latviešu izcelsmes klavierbūves meistars Dāvids Kļaviņš.  Koncertzāles lepnums neapšaubāmi ir nevainojamie akustiskie rādītāji, ko par izciliem atzinuši gan nozares profesionāļi, gan Latvijas un ārvalstu mākslinieki. Objektā ir ieprojektētas dabīgās vēdināšanas un mehāniskās ventilācijas sistēmas, kuru darbību nosaka automātiskā ēkas iekārtu vadības sistēma atkarībā no plānotajiem pasākumiem telpās, telpu noslogojuma, kā arī mainīgiem laika apstākļiem. Pirmo reizi Latvijā tiek izmantotas lokālās decentralizētās pieplūdes-nosūces sistēmas, kuras paredzēts izbūvēt kā neatkarīgas sistēmas katrai mūzikas skolas individuālai nodarbību telpai. Visas ventilācijas sistēmas ir projektētas ar augstas efektivitātes enerģijas rekuperāciju. Būvprojekts paredz arī ģeotermālās enerģijas izmantošanu (siltuma sūknis apkurei un dzesēšanai, ģeotermālie gaisa vadi svaigā gaisa sildīšanai un dzesēšanai), lai mazinātu primārās enerģijas patēriņu gada aukstajos un karstajos periodos. Būvē ir ieprojektēta automātiskā vadības sistēma, kas nodrošina visu sistēmu kontrolējamu darbību. ",
+		"ru": "Благодаря своей многофункциональности, группы разных функциональных помещений комплекса могут работать автономно или вместе в зависимости от необходимости. Поток посетителей в основном делится на: функции музыкальной школы, функции концертного зала для посетителей, функции концертного зала для участников мероприятия. Гордостью концертного зала, несомненно, являются безупречные акустические показатели, которые были признаны отличными как профессионалами отрасли, так и латвийскими и зарубежными артистами."
+	},
+	"z-towers-partner-1": {
+		"en": "LLC “SZK-T“",
+		"lv": "SIA “SZK-T“",
+		"ru": "SIA “SZK-T“"
+	},
+	"z-towers-partner-2": {
+		"en": "IG “Kurbads”",
+		"lv": "IG “Kurbads”",
+		"ru": "IG “Kurbads”"
+	},
+	"z-towers-partner-3": {
+		"en": "LLC “Būve un Forma” ",
+		"lv": "SIA “Būve un Forma” ",
+		"ru": "SIA “Būve un Forma” "
+	},
+	"z-towers-partner-4": {
+		"en": "LLC “Daina EL”",
+		"lv": "SIA “Daina EL”",
+		"ru": "SIA “Daina EL”"
+	},
+	"z-towers-partner-5": {
+		"en": "LLC “Citrus Solutions”",
+		"lv": "SIA “Citrus Solutions”",
+		"ru": "SIA “Citrus Solutions”"
+	},
+	"z-towers-partner-6": {
+		"en": "LLC “O3FM inženieru birojs”",
+		"lv": "SIA “O3FM inženieru birojs”",
+		"ru": "SIA “O3FM inženieru birojs”"
+	},
+	"private-title": {
+		"en": "Individual Private Households and interiors",
+		"lv": "Individuālās dzīvojamās mājas un interjeri"
+	},
+	"private-description": {
+		"en": "An individual house and interior has always been and remains a challenge for every architect. This project, which is most often small in scale, includes a whole set of tasks - functionality, aesthetics, individuality, safety and modernity of technical solutions, as well as longevity and economy, the solution of which is usually also a formula for success.",
+		"lv": "Individuālā dzīvojamā māja un interjers vienmēr ir bijis un paliek ikviena arhitekta izaicinājums. Šis apjomos visbiežāk nelielais projekts sevī ietver veselu uzdevumu kompleksu - funkcionalitāti, estētiku, individualitāti, tehnisko risinājumu drošību un mūsdienīgumu, kā arī ilgmūžību un ekonomiskumu, kuru atrisinājums parasti arī ir veiksmes formula."
+	},
+	"private-title-1": {
+		"en": "INDIVIDUAL DWELLING HOUSE, Second group building",
+		"lv": "INDIVIDUĀLĀ DZĪVOJAMĀ MĀJA, 2.grupas ēka",
+		"ru": "ИНДИВИДУАЛЬНЫЙ ДОМ, 2-й групповой дом"
+	},
+	"private-title-2": {
+		"en": "INDIVIDUAL DWELLING HOUSE, Second group building",
+		"lv": "INDIVIDUĀLĀ DZĪVOJAMĀ MĀJA, 2.grupas ēka",
+		"ru": "ИНДИВИДУАЛЬНЫЙ ДОМ, 2-й групповой дом"
+	},
+	"private-title-3": {
+		"en": "INDIVIDUAL DWELLING HOUSE, Second group building",
+		"lv": "INDIVIDUĀLĀ DZĪVOJAMĀ MĀJA, 2.grupas ēka",
+		"ru": "ИНДИВИДУАЛЬНЫЙ ДОМ, 2-й групповой дом"
+	},
+	"private-location-1": {
+		"en": "Darzu Street 18, Jurmala, Latvia",
+		"lv": "Dārzu iela 18, Jūrmala",
+		"ru": "Улица Дарзу 18, Юрмала, Латвия"
+	},
+	"private-location-2": {
+		"en": "Brivibas prospekts 52B, Jurmala, Latvia",
+		"lv": "Brīvības prospekts 52B, Jūrmala",
+		"ru": "Бривибас проспект 52Б, Юрмала"
+	},
+	"private-location-3": {
+		"en": "Brivibas prospekts 52A, Jurmala, Latvia",
+		"lv": "Brīvības prospekts 52A, Jūrmala",
+		"ru": "Бривибас проспект 52Б, Юрмала"
+	},
+	"private-1-2-3-duties": {
+		"en": "Author, Construction project management, master plan and territory section, architecture part",
+		"lv": "Projekta autors, būvprojekta vadība, ģenplāns un teritorijas sadaļa, arhitektūras daļa",
+		"ru": "Автор, Управление строительными проектами, генплан и раздел территории, архитектурная часть"
+	},
+	"private-1-duties": {
+		"en": "Author, Construction project management, master plan and territory section, architecture part, interior",
+		"lv": "Projekta autors, būvprojekta vadība, ģenplāns un teritorijas sadaļa, arhitektūras daļa, interjers",
+		"ru": "Автор, Управление строительными проектами, генплан и раздел территории, архитектурная часть, интерьер"
+	},
+	"private-1-time": {
+		"en": "The project was launched in May 2015; entry on the performance of design provisions made in 11 March 2015.",
+		"lv": "Projekts uzsākts 05.2015., atzīme par projektēšanas nosacījumu izpildi 11.03.2015."
+	},
+	"private-2-duties": {
+		"en": "Author, Construction project management, master plan and territory section, architecture part",
+		"lv": "Projekta autors, būvprojekta vadība, ģenplāns un teritorijas sadaļa, arhitektūras daļa"
+	},
+	"private-2-time": {
+		"en": "The project was launched in September 2014; entry on the performance of design provisions made in October 2015.",
+		"lv": "Projekts uzsākts 09.2014., atzīme par projektēšanas nosacījumu izpildi 10.2015."
+	},
+	"private-3-time": {
+		"en": "The project was launched in November 2014; entry on the performance of design provisions made in October 2015.",
+		"lv": "Projekts uzsākts 11.2014., atzīme par projektēšanas nosacījumu izpildi 10.2015."
+	},
+	"private-3-duties": {
+		"en": "Author, Construction project management, master plan and territory section, architecture part",
+		"lv": "Projekta autors, būvprojekta vadība, ģenplāns un teritorijas sadaļa, arhitektūras daļa",
+		"ru": "Автор, Управление строительными проектами, генплан и раздел территории, архитектурная часть"
+	},
+	"private-1-2-3-client": {
+		"en": "Private person",
+		"lv": "Privātpersona",
+		"ru": "Частное лицо"
+	},
+	"private-1-group-1": {
+		"en": "Project author: Arhetips Ltd. (M. Mežulis, Z. Janele);",
+		"lv": "Projekta autors - “Arhetips” (M.Mežulis, Z.Janele);"
+	},
+	"private-1-group-2": {
+		"en": "Construction project management, master plan and territory parts, architectural part: Arhetips (M. Mežulis, Z, Janele);",
+		"lv": "Būvprojekta vadība, ģenplāns, teritorijas un arhitektūras daļa- “Arhetips” (M.Mežulis, Z.Janele);"
+	},
+	"private-1-group-3": {
+		"en": "Interior: Arhetips Ltd. (M. Mežulis, Z. Janele);",
+		"lv": "Interjers - “Arhetips” (M.Mežulis, Z.Janele);"
+	},
+	"private-1-group-4": {
+		"en": "Building structures: M. Nikāzis, M. Novicāns;",
+		"lv": "Būvkonstrukcijas - M. Nikāzis, M.Novicāns;"
+	},
+	"private-1-group-5": {
+		"en": "Works organisation project: M. Lagzdiņa;",
+		"lv": "Darbu organizēšanas projekts - M.Lagzdiņa;"
+	},
+	"private-1-group-6": {
+		"en": "Electricity and low voltage: Kārlis Ltd.;",
+		"lv": "Elektrība un vājstrāvas-  „Kārlis”;"
+	},
+	"private-1-group-7": {
+		"en": "HVAC: N. Kotina;",
+		"lv": "Apkure, vēdināšana un kondicionēšana- N. Kotina;"
+	},
+	"private-1-group-8": {
+		"en": "Water supply and sewerage: Akvaleks Projekts Ltd.",
+		"lv": "Ūdensapgāde un kanalizācija- “Akvaleks projekts”."
+	},
+	"floor-count": {
+		"en": "Number of floors",
+		"lv": "Stāvu skaits",
+		"ru": "Kоличество этажей"
+	},
+	"on-earth-floor-count": {
+		"en": "Number of above-ground floors",
+		"lv": "Virszemes stāvu skaits"
+	},
+	"on-earth-floor-area": {
+		"en": "Ground floor area",
+		"lv": "Virszemes stāvu platība"
+	},
+	"basement-floor-area": {
+		"en": "Basement floor area",
+		"lv": "Pagraba stāvu platība"
+	},
+	"new-rooms-area": {
+		"en": "Area of newly built premises",
+		"lv": "Jaunbūvējamo telpu platība"
+	},
+	"reconstructable-rooms-area": {
+		"en": "Area of premises to be reconstructed",
+		"lv": "Rekonstruējamo telpu platība"
+	},
+	"private-2-group-1": {
+		"en": "Project author: Arhetips Ltd. (M. Mežulis, Z. Janele);",
+		"lv": "Projekta autors- “Arhetips” (M.Mežulis, Z.Janele);"
+	},
+	"private-2-group-2": {
+		"en": "Construction project management, master plan and territory parts, architectural part: Arhetips Ltd. (M. Mežulis, Z, Janele);",
+		"lv": "Būvprojekta vadība, ģenplāns, teritorijas un arhitektūras daļa - “Arhetips” (M.Mežulis, Z.Janele);"
+	},
+	"private-2-group-3": {
+		"en": "Building structures: M. Nikāzis, M. Novicāns;",
+		"lv": "Būvkonstrukcijas - M. Nikāzis, M.Novicāns;"
+	},
+	"private-2-group-4": {
+		"en": "Works Organization Project: GP Projektu Birojs Ltd.;",
+		"lv": "Darbu organizēšanas projekts - “GP projektu birojs;"
+	},
+	"private-2-group-5": {
+		"en": "Electricity and low voltage: Kārlis Ltd.;",
+		"lv": "Elektrība un vājstrāvas - „Kārlis”;"
+	},
+	"private-2-group-6": {
+		"en": "HVAC: N. Kotina;",
+		"lv": "Apkure, vēdināšana un kondicionēšana - N. Kotina;"
+	},
+	"private-2-group-7": {
+		"en": "Water supply and sewerage: Akvaleks Projekts Ltd.",
+		"lv": "Ūdensapgāde un kanalizācija - “Akvaleks projekts”."
+	},
+	"private-3-group-1": {
+		"en": "Project author: Arhetips Ltd. (M. Mežulis, Z. Janele);",
+		"lv": "Projekta autors - “Arhetips” (M.Mežulis, Z.Janele);"
+	},
+	"private-3-group-2": {
+		"en": "Construction project management, master plan and territory parts, architectural part: Arhetips Ltd. (M. Mežulis, Z, Janele);",
+		"lv": "Būvprojekta vadība, ģenplāns, teritorijas un arhitektūras daļa - “Arhetips” (M.Mežulis, Z.Janele);"
+	},
+	"private-3-group-3": {
+		"en": "Building structures: M. Nikāzis, M. Novicāns;",
+		"lv": "Būvkonstrukcijas- M. Nikāzis, M.Novicāns;"
+	},
+	"private-3-group-4": {
+		"en": "Works Organization Project: GP Projektu Birojs Ltd.;",
+		"lv": "Darbu organizēšanas projekts- “GP projektu birojs;"
+	},
+	"private-3-group-5": {
+		"en": "Electricity and low voltage: Kārlis Ltd.;",
+		"lv": "Elektrība un vājstrāvas-  „Kārlis”;"
+	},
+	"private-3-group-6": {
+		"en": "HVAC: N. Kotina;",
+		"lv": "Apkure, vēdināšana un kondicionēšana- N. Kotina;"
+	},
+	"private-3-group-7": {
+		"en": "Water supply and sewerage: Akvaleks Projekts Ltd.",
+		"lv": "Ūdensapgāde un kanalizācija- “Akvaleks projekts”."
+	},
+	"private-4-group-1": {
+		"en": "",
+		"lv": "Projektētājs- SIA “Arhetips” (M.Mežulis, Z.Janele);"
+	},
+	"private-4-group-2": {
+		"en": "",
+		"lv": "Projekta autors- M.Mežulis; Z.Janele"
+	},
+	"private-lattelecom-1": {
+		"en": "Renovation of LLC Lattelecom office premises",
+		"lv": "Lattelekom SIA biroja telpu renovācija"
+	},
+	"private-lattelecom-address": {
+		"en": "105 Dzirnavu St., Riga, Latvia, 1st Floor",
+		"lv": "Dzirnavu iela 105, 1.stāvs"
+	},
+	"private-lattelecom-customer": {
+		"en": "LLC Lattelekom",
+		"lv": "SIA Lattelekom"
+	},
+	"private-lattelecom-group-1": {
+		"en": "Architecture: LLC “Arhetips” (M.Mežulis, Z.Janele); ",
+		"lv": "Arhitektūra: SIA “Arhetips” ( M.Mežulis, Z.Janele);"
+	},
+	"private-lattelecom-group-2": {
+		"en": "Interior: Design office \"Pieci ezeri\" (I.Elere, H.Elers);",
+		"lv": "Interjers: Dizaina birojs “Pieci ezeri” (I.Elere, H.Elers);"
+	},
+	"private-lattelecom-group-3": {
+		"en": "Heating: SIA “Vikomakss”;",
+		"lv": "AVK: SIA “Vikomakss”;"
+	},
+	"private-lattelecom-group-4": {
+		"en": "Mechanicals, Electricals: SIA “Inna projekts”",
+		"lv": "ŪK, EL, AVK-A; VS, UAS: SIA “Inna projekts”"
+	},
+	"private-lattelecom-area-1": {
+		"en": "Total area of premises to be renovated",
+		"lv": "Renovējamo telpu kopējā platība"
+	},
+	"private-lattelecom-area-2": {
+		"en": "Construction volume of the premises to be renovated",
+		"lv": "Renovējamo telpu būvtilpums"
+	},
+	"private-lattelecom-part-1": {
+		"en": "Re-planning of premises according to functions - administrative and office premises.",
+		"lv": "Telpu pārplānošana atbilsoši funkcijām – administratīvās un biroju telpas."
+	},
+	"private-lattelecom-part-2": {
+		"en": "Partial insulation of the building facade.",
+		"lv": "Ēkas fasādes daļēja siltināšana."
+	},
+	"private-lattelecom-part-3": {
+		"en": "Replacement of single-storey outbuilding glass showcases, doors and windows.",
+		"lv": "Vienstāva piebūves stikla pakešu vitrīnu, durvju un logu  nomaiņa."
+	},
+	"private-lattelecom-part-4": {
+		"en": "Replacement of interior decoration according to the function of the premises.",
+		"lv": "Iekšējās apdares nomaiņa atbilstoši telpu funkcijai."
+	},
+	"private-lattelecom-part-5": {
+		"en": "Replacement and reconstruction of existing engineering communications",
+		"lv": "Esošo inženierkomunikāciju nomaiņa un rekonstrukcija (ŪK, AVK, EL, UAS/AS, VS)"
+	},
+	"private-lattelecom-part-6": {
+		"en": "Development of new engineering communications",
+		"lv": "Jaunu inženierkomunikāciju izveide (AVK, UAS/AS, VS)"
+	},
+	"angel-title": {
+		"en": "Individual residential house",
+		"lv": "Individuālā dzīvojamā māja"
+	},
+	"angel-address": {
+		"en": "26 Gertrudes, Jurmala, Latvia",
+		"lv": "Ģertrūdes prospekts 26, Jūrmala"
+	},
+	"angel-group-1": {
+		"en": "Designer - SIA “Arhetips” (M.Mežulis, M.Ručevskis);",
+		"lv": "Projektētājs - SIA “Arhetips” (M.Mežulis, M.Ručevskis);"
+	},
+	"angel-group-2": {
+		"en": "Author of the project - M.Mežulis;",
+		"lv": "Projekta autors - M.Mežulis;"
+	},
+	"angel-group-3": {
+		"en": "Building structures - V.Sergeječevs",
+		"lv": "Būvkonstrukcijas - V.Sergeječevs"
+	},
+	"angel-comment": {
+		"en": "PUT INTO OPERATION in 2002",
+		"lv": "NODOTS EKSPLUATĀCIJĀ 2002.gadā"
+	},
+	"diklu-title": {
+		"en": "Individual residential house",
+		"lv": "Individuālā dzīvojamā māja"
+	},
+	"diklu-address": {
+		"en": "Diklu St., Riga, Latvia",
+		"lv": "Dikļu iela, Rīga"
+	},
+	"diklu-group-1": {
+		"en": "Designer - SIA “Arhetips” (M.Mežulis, Z.Janele);",
+		"lv": "Projektētājs - SIA “Arhetips” (M.Mežulis, Z.Janele);"
+	},
+	"diklu-group-2": {
+		"en": "Project authors - M.Mežulis, Z.Janele;",
+		"lv": "Projekta autori - M.Mežulis, Z.Janele;"
+	},
+	"diklu-group-3": {
+		"en": "Building structures - V.Sergeječevs",
+		"lv": "Būvkonstrukcijas - V.Sergeječevs"
+	},
+	"diklu-comment": {
+		"en": "PUT INTO OPERATION in 2006",
+		"lv": "NODOTS EKSPLUATĀCIJĀ 2006.gadā"
+	},
+	"pavement-area": {
+		"en": "Paved paths",
+		"lv": "Bruģēti celiņi"
+	},
+	"living-building": {
+		"en": "Dwelling house",
+		"lv": "Dzīvojamā ēka"
+	},
+	"samara-title": {
+		"en": "Building facade solution",
+		"lv": "Ēkas fasādes risinājums"
+	},
+	"samara-address": {
+		"en": "Samara, Russia",
+		"lv": "Samara, Krievija"
+	},
+	"samara-authors": {
+		"en": "Authors of the project: M.Mežulis, A.Jēkabsons",
+		"lv": "Projekta autori: M.Mežulis, A.Jēkabsons"
+	},
+	"samara-subtitle": {
+		"en": "For a residential house in Samara - facade project, choice of style",
+		"lv": "Par dzīvojamās mājas Samārā - fasādes projektu, stila izvēli"
+	},
+	"samara-desc-1": {
+		"en": "When starting work on the individual residential house facade project, the goal was to create a rich, prestigious visual image of the building corresponding to the social status of the building owner, while abandoning the rhythmic repetition of standard clichés and standard solutions. According to the authors, the visual image of the building should delight the eye of both the viewer without a special understanding of art and architecture, and a person with special knowledge and a fine understanding of style. The building must be designed in general proportions, construction volumes, as well as architecture in details and individual elements - window and door finishes, facade decorations, friezes, railings, door solutions and elsewhere. The widest possible range of means of artistic expression should be used - sculptural decors, tonally nuanced color solutions, geometric elements of the facade division. The language of forms, known in the world as Art Nouveau or Neo-Romanticism, was chosen as the most appropriate for these requirements.",
+		"lv": "Uzsākot darbu pie individuālās dzīvojamās mājas fasādes projekta par mērķi tika stādīts izveidot bagātīgu, prestižu, ēkas īpašnieka sociālajam statusam atbilstošu ēkas vizuālo tēlu, vienlaikus atsakoties no standarta klišeju ritmiska atkārtojuma un tipveida risinājumiem. Pēc autoru domām ēkas vizuālajam tēlam ir jāpriecē acs gan skatītājam bez speciālas izpratnes par mākslu un arhitektūru, gan cilvēkam ar speciālām zināšanām un smalku stila izpratni. Ēkai jābūt izstrādātai kā kopējās proporcijās, būvapjomu dalījumos, tā arī arhitektūrs detaļās un atsevišķos elementos- logu un durvju apdarēs, fasādes dekoros, frīzās, margās, durvju risinājumos un citur. Jāpielieto pēc iespējas plašs māksliniecisko izteiksmes līdzekļu spektrs- skulpturāli dekori, tonāli niansēti krāsu risinājumi, ģeometriski fasādes dalījuma elementi. Par šīm prasībām visatbilstošāko tika izvēlēta formu valoda, kuru pasaulē dēvē par jūgendstilu vai neoromantismu."
+	},
+	"samara-desc-2": {
+		"en": "The guiding principle of Art Nouveau is the idea of art synthesis. All elements are important in creating the overall image of a building. Architecture is dominated by elements of neoclassicism and national romanticism. It is an ornamental style based on curved lines, asymmetrical composition, irregular line rhythms. In architecture, the Art Nouveau style is characterized by the functional structure of the building, which stands out as a priority, the facade is highlighted both by architectural means (bay windows, lysines, door and window openings) and by building plastic elements (reliefs, sculptures, ornaments). This style is also very grateful to the work and creative thought of the craftsmen involved in the implementation of the building.",
+		"lv": "Jūgendstila vadmotīvs ir mākslas sintēzes ideja. Ēkas koptēla izveidē svarīgi visi elementi. Arhitektūrā dominē neoklasicisma un nacionālā romantisma elementi. Tas ir ornamentāls stils, kam pamatā liektas līnijas, asimetriska kompozīcija, neregulāri līniju ritmi. Arhitektūrā jūgendstilam raksturīga celtnes funkcionālā uzbūve, kas izvirzās par prioritāti, fasāde tiek izcelta gan ar arhitektoniskiem līdzekļiem (erkeriem, lizēnām, durvju un logu ailām), gan ar būvplastikas elementiem (ciļņiem, skulptūrām, ornamentu). Šis stils ir arī ļoti pateicīgs ēkas realizācijā iesaistīto amata meistaru darbam un radošajai domai."
+	},
+	"samara-desc-3": {
+		"en": "In our opinion, such a solution will allow to create the image of a building that will correspond to the truth that is always relevant at all times: MY HOUSE - MY CASTLE.",
+		"lv": "Mūsuprāt tieši šāds risinājums ļaus izveidot ēkas tēlu, kurš atbildīs visos laikos aktuālajai patiesībai: MANS NAMS - MANA PILS."
+	},
+	"gertrudes-title": {
+		"en": "Individual residential house",
+		"lv": "Individuālā dzīvojamā māja"
+	},
+	"gertrudes-address": {
+		"en": "Gertrudes 1, Jurmala",
+		"lv": "Ģertrūdes prospekts 1, Jūrmala"
+	},
+	"gertrudes-comment": {
+		"en": "",
+		"lv": "NODOTS EKSPLUATĀCIJĀ 2007.gadā"
+	},
+	"langstini–title": {
+		"en": "Individual Dwelling House",
+		"lv": "Individuālā dzīvojamā māja"
+	},
+	"langstini–address": {
+		"en": "3 Mildas St., Langstini, Latvia",
+		"lv": "Mildas iela 3, Langstiņi"
+	},
+	"langstini–group-1": {
+		"en": "Designer - SIA “Arhetips” (M.Mežulis, Z.Janele);",
+		"lv": "Projektētājs - SIA “Arhetips” (M.Mežulis, Z.Janele);"
+	},
+	"mildas15-title": {
+		"en": "Individual residential house",
+		"lv": "Individuālā dzīvojamā māja"
+	},
+	"mildas15-address": {
+		"en": "15 Mildas St., Langstini, Latvia",
+		"lv": "Mildas iela 15, Langstiņi"
+	},
+	"mildas15–group-1": {
+		"en": "Designer - SIA “Arhetips” (M.Mežulis, Z.Janele);",
+		"lv": "Projektētājs - SIA “Arhetips” (M.Mežulis, Z.Janele);"
+	},
+	"mildas15–group-2": {
+		"en": "Project author - M.Mežulis, Z.Janele;",
+		"lv": "Projekta autors - M.Mežulis, Z.Janele;"
+	},
+	"mildas15-group-3": {
+		"en": "Building structures - G.Kameņeckis, K.Bundža",
+		"lv": "Būvkonstrukcijas - G.Kameņeckis, K.Bundža"
+	},
+	"langstini–group-2": {
+		"en": "Project author - M.Mežulis, Z.Janele;",
+		"lv": "Projekta autors - M.Mežulis, Z.Janele;"
+	},
+	"langstini–group-3": {
+		"en": "Building structures - G.Kameņeckis, K.Bundža",
+		"lv": "Būvkonstrukcijas - G.Kameņeckis, K.Bundža"
+	},
+	"konkordijas-title": {
+		"en": "Reconstruction and interior of an apartment house",
+		"lv": "Daudzdzīvokļu dzīvojamās mājas pārbūve un interjers"
+	},
+	"konkordijas-address": {
+		"en": "36 Konkordijas St., Jurmala, Latvia",
+		"lv": "Konkordijas iela 36, Jūrmala"
+	},
+	"konkordijas-group-1": {
+		"en": "Designer - LLC “Arhetips”; ",
+		"lv": "Projektētājs - SIA “Arhetips”;"
+	},
+	"konkordijas-group-2": {
+		"en": "Author of the project - M.Mežulis, A.Arbidāns, Z.Janele;",
+		"lv": "Projekta autors - M.Mežulis, A.Arbidāns, Z.Janele;"
+	},
+	"konkordijas-group-3": {
+		"en": "Building structures - A.Alksnis, V.Sergeječevs ",
+		"lv": "Būvkonstrukcijas - A.Alksnis, V.Sergeječevs"
+	},
+	"langstini–comment": {
+		"en": "PUT INTO OPERATION in 2006",
+		"lv": "NODOTS EKSPLUATĀCIJĀ 2006.gadā"
+	},
+	"saulkrasti-raina-title": {
+		"en": "Reconstruction of public building facades",
+		"lv": "Sabiedriskās ēkas fasāžu rekonstrukcija"
+	},
+	"saulkrasti-raina-address": {
+		"en": "7 Raina St., Saulkrasti, Latvia",
+		"lv": "Raiņa iela 7, Saulkrasti"
+	},
+	"sia-arhetips": {
+		"en": "LLC “Arhetips”",
+		"lv": "SIA “Arhetips”"
+	},
+	"saulkrasti-raina-authors": {
+		"en": "Project author: M.Mežulis, J.Saknitis",
+		"lv": "Projekta autors: M.Mežulis, J.Saknītis"
+	},
+	"saulkrasti-raina-desc-1": {
+		"en": "The building in Saulkrasti, Raina Street 7 is a clear example of the architectural functionalism of the second half of the last century, which can be considered the cultural heritage of its time. The building has a distinct language of form, the ratio of protruding glazing and the proportions of the basic volume.",
+		"lv": "Ēka Saulkrastos, Raiņa ielā 7 ir izteikts pagājušā gadsimta otrās puses arhitektūras funkcionālisma paraugs, kas pēc būtības uzskatāms par sava laika kultūras mantojumu.  Ēkai  piemīt izteikta formu valoda, izvirzīto stiklojumu un pamatapjoma proporciju attiecības. "
+	},
+	"saulkrasti-raina-desc-2": {
+		"en": "At present, the volume of the building is \"overgrown\" with various quotations of incompatible architectural styles. Chaotic ad placement also makes it difficult to read the pure form language of a building's volume.",
+		"lv": "Šobrīd ēkas apjoms „apaudzis” ar dažādiem, savstarpēji nesaderīgu arhitektūras stilu citātiem. Arī haotiskais reklāmu izvietojums traucē nolasīt ēkas apjoma tīro formvalodu."
+	},
+	"industrial-title": {
+		"en": "Proposal for a new building of the office building \"Riga Industrial Park\"",
+		"lv": "Biroju ēkas \"Rīgas Industriālais Parks\" jaunbūves priekšlikums"
+	},
+	"industrial-address": {
+		"en": "120 Dzelzavas St., Riga, Latvia",
+		"lv": "Dzelzavas iela 120, Rīga"
+	},
+	"vikingi-title": {
+		"en": "The proposition of a new 4-storey, multi-apartment residential building",
+		"lv": "4-stāvu, daudzdzīvokļu dzīvojamās mājas jaunbūves iecere"
+	},
+	"vikingi-address": {
+		"en": "44 Vikingu St., Jurmala, Latvia",
+		"lv": "Vikingu iela 44, Jūrmala"
+	},
+	"vikingi-stuff": {
+		"en": "Driveways, parking lots, footpaths",
+		"lv": "Piebraucamie ceļi, autostāvvietas, gājēju celiņi"
+	},
+	"vikingi-desc-1": {
+		"en": "The current situation and the customer's desire to create intensive construction on this plot of land - a 4-storey apartment building makes it necessary to find a versatile project solution. One of the most important tasks in designing modern living spaces, especially in Jūrmala, is considered to be the provision of sunbathing of the premises and access to the outdoor space in the form of balconies and terraces. Thus, the living quarters are located on the A, DA, D, SW side of the building against the river. The wide glazing of the river side of the facade, the depth of the living space (8 m) and the shape of the plan solved in the project allow to equally well illuminate all the apartments, supplementing them with balconies facing the river. Communication nodes - the main entrance to the house, galleries for entering the apartments, stairs, elevator - are located in the NW facade of the building facing Vikingu Street. This is also the main façade of the building, which can be seen by passers-by. It is solved in the form of a wide circular screen, separating the residential or private area from the public - noisy, noisy street.",
+		"lv": "Esošā situācija un pasūtītāja vēlme šajā zemes gabalā veidot intensīvu apbūvi- 4 stāvu daudzdzīvokļu māju liek rast daudzpusīgu projekta risinājumu. Par vienu no svarīgākajiem uzdevumiem projektējot mūsdienīgas dzīvojamās telpas, it īpaši Jūrmalā,  tiek uzskatīta telpu izsauļojamības nodrošināšana un pieeja ārtelpai balkonu un terašu veidā. Tādējādi dzīvojamās telpas novietotas ēkas A, DA, D, DR pusē pret upi. Plašie upes puses fasādes stiklojumi, dzīvojamo telpu dziļums (8m) un projektā risinātā plāna forma ļauj vienlīdz labi izgaismot visus dzīvokļus, papildinot tos ar pret upi vērstiem balkoniem. Komunikāciju mezgli – galvenā ieeja mājā, galerijas iekļūšanai dzīvokļos, kāpnes, lifts - izvietoti pret Vikingu ielu vērstajā ēkas ZR fasādē. Šī ir arī ēkas galvenā - reprezentācijas fasāde, kas ir aplūkojama garāmbraucējiem. Tā risināta plaša lokveida ekrāna formā, norobežojot dzīvojamo jeb privāto zonu no sabiedriskās -  skaļās, trokšņainās ielas."
+	},
+	"vikingi-desc-2": {
+		"en": "Leaving the center of Jurmala and its surroundings for indisputable value - historical buildings, the project solution offers an alternative. It is an attempt to give the generally monotonous section of Vikingu Street an interesting stopping point, an accent in which the passer-by will see the image or shapes of a fabulous, old ship. It is a modern architecture in terms of both concept and form, proportions and space, preserving the typical of Jūrmala and a specific environment - in character, details and used materials (wood, glass, plaster).",
+		"lv": "Atstājot Jūrmalas centru un tā apkārtni neapstrīdamajai vērtībai- vēsturiskajai apbūvei, projekta risinājums piedāvā alternatīvu. Tas ir mēģinājums visumā vienmuļajam Vikingu ielas posmam piešķirt kādu interesantu pieturas punktu, akcentu, kurā garāmbraucējs saskatīs teiksmaina, sena kuģa tēlu vai apveidus. Tā ir mūsdienīga arhitektūra gan koncepcijas, gan formu, proporciju un telpas risinājumos, saglabājot Jūrmalai un konkrētai videi tipisko - raksturā, detaļās un pielietotajos materiālos (koks, stikls, apmetums)."
+	},
+	"apartment-count": {
+		"en": "Planned number of apartments",
+		"lv": "Plānotais dzīvokļu skaits"
+	},
+	"apartment-area": {
+		"en": "Apartment area of the building",
+		"lv": "Ēkas dzīvokļu platība"
+	},
+	"saulkrasti-raina-desc-3": {
+		"en": "The proposal for the reconstruction of the facades envisages restoring the historical appearance of the building by using modern, sustainable materials. The tonal facades are solved in the color scheme typical of coastal construction. Gray plaster is used, which nowadays has a wide range of shades and sheets of wood imitation finishing composite material. (Trespa or analogue)",
+		"lv": "Fasāžu rekonstrukcijas priekšlikums paredz atjaunot ēkas vēsturisko veidolu, apdarē pielietojot mūsdienīgus, ilgtspējīgus materiālus. Tonāli fasādes risinātas piekrastes apbūvei raksturīgajā krāsu gammā. Pielietots pelēkais apmetums, kam mūsdienās pieejams plāšs nianšu spektrs un koka imitācijas apdares kompozītmateriāla loksnes. („Trespa” vai analogs)"
+	},
+	"saulkrasti-raina-desc-4": {
+		"en": "There is a space above the central entrance for advertising and a newly built bar above the main volume of the building. It is also planned to build a new floor above the boiler house.",
+		"lv": "Reklāmu izvietojumam paredzēts laukums virs centrālās ieejas un no jauna izbūvēta josla virs ēkas pamatapjoma. Paredzēts arī izbūvēt jaunu stāvu virs katlu mājas."
+	},
+	"maintenance-building": {
+		"en": "Maintenance building",
+		"lv": "Saimniecības ēka"
+	},
+	"project-parts": {
+		"en": "Project composition",
+		"lv": "Projekta sastāvs"
+	},
+	"tv-tower-title": {
+		"en": "Reconstruction of LVRTC Riga radio and television station project",
+		"lv": "VAS LVRTC Rīgas radio un televīzijas stacijas pārbūves PROJEKTS",
+		"ru": "Реконструкция LVRTC Рижского радио и телевидения"
+	},
+	"tv-tower-description": {
+		"en": "The building complex of Riga Radio and Television Station (RRTS) and the infrastructure located within it is crucial for ensuring the core functions of the state joint stock company Latvian State Radio and Television Centre (LVTRC) and for the provision of its services. The aim of the project is for the TV tower and its adjacent territory to become a modern part of the urban environment both technically and functionally. After reconstruction, the tower must become an important public education centre in the field of technology, as well as a venue for industry’s events.",
+		"lv": "Rīgas radio un televīzijas stacijas (RRTS)  būvju komplekss un tajā esošā infrastruktūra ir ļoti nozīmīga valsts akciju sabiedrības “Latvijas Valsts radio un televīzijas centrs” (LVRTC) pamatdarbības funkciju un pakalpojumu nodrošināšanai. Projekta mērķis ir panākt, lai TV tornis un pieguļošā teritorija kļūtu par mūsdienīgu pilsētvides sastāvdaļu, kas ir gan tehnoloģiski, gan funkcionāli moderna. Pēc rekonstrukcijas tornim jākļūst par būtisku sabiedrības izglītošanas centru tehnoloģiju jomā, kā arī nozares notikumu vietu. ",
+		"ru": "Комплекс зданий Рижской радиотелевизионной станции (РРТС) и существующая инфраструктура очень важны для обеспечения основных операционных функций и услуг Государственного акционерного общества «Латвийский государственный радио и телевизионный центр» (LVRTC). Цель проекта - сделать телебашню и прилегающую территорию современной частью городской среды, современной технологически и функционально. После реконструкции башня должна стать важным общественным образовательным центром в области технологий, а также местом проведения отраслевых мероприятий."
+	},
+	"tv-tower-territory": {
+		"en": "Territory",
+		"lv": "Teritorija",
+		"ru": "Территория"
+	},
+	"tv-tower-description-2": {
+		"en": "The territory under design is located in the Southern part of the Zaķusala island, and it is directly adjacent to the Zaķusala embankment. The outdoor space solution features a modern, functional landscaping concept. The area under design is to be landscaped with greenery and new plants, also providing fencing and lighting of the territory. The outdoor space is to be segregated into two parts — the publicly accessible and the functionally administrative part. It is planned to segregate the functional areas and flows by creating separate entrances for staff, visitors and deliveries. ",
+		"lv": "Projektējamā teritorija atrodas Zaķusalas dienvidu daļā un tieši piekļaujas Zaķusalas krastmalai.  Ārtelpas risinājumā paredzēts mūsdienīgs, funkcionāls labiekārtojuma koncepts. Tiek paredzēta projektējamās platības apzaļumošana ar jauniem stādījumiem, kā arī teritorijas nožogojums un apgaismojums. Ārtelpa zonējama divās daļās - publiski pieejamā un funkcionāli administratīvā daļa. Būvprojekta ietvaros paredzēta funkcionālo zonu un plūsmu nodalīšana, veidojot atsevišķas ieejas darbiniekiem, apmeklētājiem un piegādēm. ",
+		"ru": "Проектируемая территория расположена в южной части Закюсалы и примыкает к набережной Закюсалы. Решение для улицы представляет собой современную функциональную концепцию удобства. Планируется озеленение проектируемой территории новыми насаждениями, а также ограждение и освещение территории. Открытое пространство будет зонироваться на две части - общедоступную и функционально-административную. Строительный проект предусматривает разделение функциональных зон и потоков, создание отдельных входов для сотрудников, посетителей и расходных материалов."
+	},
+	"tv-tower-building": {
+		"en": "Building",
+		"lv": "Ēka",
+		"ru": "Здание"
+	},
+	"tv-tower-description-3-1": {
+		"en": "As a result of the reconstruction, the building will acquire a new facade while leaving the premises to be preserved inside the new volume. Three types of finishing materials will dominate the outer building facade: ceramic plates on walls, glazed facades, metallic sun blinds, exposed concrete on external steps and supporting walls. ",
+		"lv": "Pārbūves rezultātā ēka iegūs jaunu fasādi, saglabājamās telpas atstājot jaunveidojamā apjoma iekšpusē. Ēkas ārējā fasādē dominēs trīs apdares materiāli: keramikas plāksnes sienām, stiklotās fasādes, metāla saules žalūzijas, eksponēts betons āra kāpieniem un atbalsta sienām. "
+	},
+	"tv-tower-description-3-2": {
+		"en": "Entrance into the public indoor area and the exit to the public outdoor area, cloakrooms, cafeteria, stairs and elevator. The bomb shelter built during the Cold War will be preserved, transforming it into an exhibition element.",
+		"lv": "Ieeja publiskajā daļā un izeja uz publisko ārtelpu, garderobēm, tualetēm, kafejnīcu, kāpnēm un liftiem. Tiks saglabāta Aukstā kara laikā izbūvētā bumbu patvertne, pārveidojot to par ekspozīcijas elementu."
+	},
+	"tv-tower-description-3-3": {
+		"en": "Part of expositions are planned to be located on the first and second level. The first level will feature the main hall that will serve as the focal point of the public area; from here, the view will be guided upwards through the glazed ceiling structure towards the TV tower whereas the complex public outdoor space will be visible through the glazed facade.",
+		"lv": "Pirmajā un otrajā līmenī paredzēta daļa ekspozīciju. Pirmajā līmenī atradīsies galvenā halle, kas ir publiskās daļas fokālais punkts, no šejienes caur stikloto griestu konstrukciju pavērsies skats uz augšu – uz pašu TV torni, savukārt caur stikloto fasādi būs redzama kompleksa publiskā ārtelpa."
+	},
+	"tv-tower-description-3-4": {
+		"en": "Publicly available multi-functional premises and business office. A publicly accessible premise to observe the Foucault pendulum is planned on the third level.",
+		"lv": "Publiski pieejamas multifunckionālas telpas un uzņēmuma birojs. Ēkas trešajā līmenī paredzēta publiski pieejama telpa Fuko svārsta vērošanai. Ieeja tehniskajā daļā tiks veidota no projektējamās darbinieku autostāvvietas, kas paredzēta ēkas ziemeļaustrumu daļā."
+	},
+	"tv-tower-description-3-5": {
+		"en": "The entrance into the technical section will be shaped from the designed staff parking lot that is planned in the North-Eastern part of the building. Staff premises are planned to be expanded on the first and second floor with a common entrance hall, resting/dining premises and a conference room. Changing rooms with showers and clothes drying rooms as well as warehouses and technical premises are planned on the basement floor.  ",
+		"lv": "Pirmajā un otrajā stāvā paredzēts paplašināt darbinieku telpas ar vienotu ieejas vestibilu, atpūtas/ēdināšanas telpām un konferenču telpu. Pagrabstāvā paredzētas ģērbtuves ar dušām un drēbju žāvētavām, kā arī noliktavas un tehniskās telpas. "
+	},
+	"tv-tower-description-3-6": {
+		"en": "The aim of designing an office is to create a common workspace for all staff based at the LVRTC in Riga by constructing modern office premises with semi-open layout, thus raising its working conditions, as well as improving work culture and mutual communication. The workspace is equipped with class B office equipment and micro-climate level.",
+		"lv": "Biroja izveides mērķis ir radīt vienotu darba vidi visiem LVRTC Rīgā bāzētajiem darbiniekiem, izbūvējot modernas biroja telpas ar daļēji atvērtu plānojumu, tādējādi paceļot augstākā kvalitātē gan darbinieku darba apstākļus, gan darba kultūru un savstarpējo komunikāciju. Darba telpas paredzētas 250 darbiniekiem (nākotnē iespējams palielināt vēl par 50 darba vietām)."
+	},
+	"tv-tower-tower": {
+		"en": "TV Tower",
+		"lv": "TV Tornis",
+		"ru": "Телебашня"
+	},
+	"tv-tower-description-4-1": {
+		"en": "The following works are planned in the TV tower during reconstruction: replacement of both elevators / reconstruction of the TV tower supports, replacement of the elevator / reconstruction in the middle part of the TV tower, replacement of the lift / reconstruction in the top part of the TV tower, construction of restaurant premises in the area of the former cafeteria Vēja Roze (+93.39 m), reconstruction of the panoramic view deck ( +98.30 m), reconstruction of the panoramic view deck ( +98.30 m), construction of the Skywalk (+218.43 m), creation of the Foucault pendulum.",
+		"lv": "Pārbūves laikā TV tornī paredzēti sekojoši darbi:abu liftu nomaiņa / pārbūve TV torņa balstos, lifta nomaiņa / pārbūve TV torņa vidusdaļā, pacēlāja nomaiņa / pārbūve TV torņa augšējā daļā, restorāna telpu izbūve bijušās kafejnīcas \"Vēja roze\" vietā (+93.39m), panorāmas skatu laukuma pārbūve ( +98.30m), panorāmas skatu laukuma pārbūve ( +135.06m), pastaigu laipas \"Sky Walk\" izveidošana (+218.43m), Fuko svārsta izveide"
+	},
+	"tv-tower-description-4-2": {
+		"en": "The pendulum will hang from the bottom part of the TV tower. An electromagnet will be added to the pendulum’s sphere in order to amplify the oscillations. The sphere will be located on the open inner courtyard at third floor level. It is planned for the Foucault pendulum to be the heaviest and highest pendulum in the world that opens up the opportunity for it to be included in the Guinness Book of Records.  Also, it will be possible to exit onto a publicly accessible roof terrace from the third floor. Similarly to other premises, the tower will also be segregated into public and technical sections. ",
+		"lv": "Svārsts tiks piestiprināts pie TV torņa vidusdaļas apakšas. Svārsta lodei tiks pievienots elektromagnēts, kas pastiprinās svārstības. Lode atradīsies ēkas trešā stāva atklātajā iekšpagalmā. Paredzams, ka plānotais Fuko svārsts būs smagākais un augstākais svārsts pasaulē, kas paver perspektīvu tā iekļaušanai Ginesa rekordu grāmatā.  Tāpat no trešā stāva būs iespējams iziet uz publiski pieejamu jumta terasi. Tāpat kā pārējās telpas, arī tornis ir sadalīts zonējumos - publiskā un tehniskā daļa. "
+	},
+	"tv-tower-description-4-3": {
+		"en": "Elevators will be located in two of the tower’s supports. It will be possible to access the Skywalk level (+218.43 m) from the height of 98m using the elevator that serves the middle part of the TV tower.",
+		"lv": "Torņa divos balstos tiks izvietoti lifti. Ar liftu, kas apkalpo TV torņa vidusdaļu, no 98m augstuma varēs nokļūt  “Sky walk” līmenī +218.43m."
+	},
+	"tv-tower-description-4-4": {
+		"en": "A visitor hall, auxiliary premises and lavatories for customers are planned on the restaurant floor — this will be provided by means of dismantling the existing partitions and stairs that connect the restaurant level to the upper floor and by constructing new partitions.",
+		"lv": "Restorāna stāvā paredzēta apmeklētāju zāle, restorāna palīgtelpas un tualetes apmeklētājiem, kas tiks panākts demontējot esošās starpsienas un kāpnes, kas savieno restorāna līmeni ar augšējo stāvu, kā arī izbūvējot jaunas starpsienas."
+	},
+	"tv-tower-description-4-5": {
+		"en": "It is planned to position six console-type glazed protrusions on the panoramic view deck level (+98 m) by dismantling the windows currently position in the places of these elements and by reshaping them into openings. In order to avoid interfering with the load-bearing structures, the floor level will be raised to provide access for people with reduced mobility by means of two floor-mounted lifts. Visitor lavatories are planned in the middle part of this floor. Additional communication with the restaurant level will be provided by means of stairs in the TV tower support. ",
+		"lv": "No zemes līmeņa šajā stāvā varēs nokļūt ar TV torņa balstos izvietotiem liftiem. Tāpat ar šiem liftiem būs iespējams nokļūt arī panorāmas skatu laukuma līmenī (vienu stāvu augstāk)."
+	},
+	"tv-tower-description-4-6": {
+		"en": "Three balconies (one in each facade) are planned to be built at the panoramic view deck level (+135m). In order to ensure that indoor and outdoor floors are in the same level and to avoid interfering with the load-bearing structures, floors will be elevated here as well. The existing windows are planned to be dismantled in the balcony area in order to shape them into openings. The external perimeter of the balconies (from the sides and from the top) will be equipped with a mesh/net for security purposes. The central part of balconies is to be lined with tempered laminated glass. Visitor lavatories as well as instruction area and changing rooms for the Skywalk visitors are planned in the middle of the floor. ",
+		"lv": "Panorāmas skatu laukuma līmenī +98m paredzēts izvietot sešus stiklotus konsolveida izvirzījumus, šo elementu vietās demontējot esošos logus un pārveidojot tos par ailām. Lai izvairītos no iejaukšanās nesošajās konstrukcijās, tiks pacelts grīdas līmenis, cilvēkiem ar kustības traucējumiem piekļuvi nodrošinot ar diviem grīdā iebūvētiem pacēlājiem. Stāva vidusdaļā paredzētas apmeklētāju tualetes. Papildus komunikācija ar restorāna līmeni tiks nodrošināta ar kāpnēm TV torņa balstā. "
+	},
+	"tv-tower-description-4-7": {
+		"en": "The extreme outdoor Skywalk level will be accessible using a lift to the point of +222 m followed by a walk down the newly constructed stairs to the height of +218 m. It is planned to position the extreme outdoor Skywalk in the same level as the existing floor level. The Skywalk will have a metallic structure. The surface and the inner part of the Skywalk will be made of corrugated metal whereas its middle part will be made of tempered laminated glass.",
+		"lv": "Panorāmas skatu laukuma līmenī (+135m) paredzēta trīs balkonu izbūve - katrā fasādē pa vienam. Lai nodrošinātu iekštelpu un ārtelpu grīdas vienā līmenī, kā arī lai neskartu esošās nesošās konstrukcijas, arī šeit tiks pacelts grīdas augstums. Balkonu zonā paredzēts demontēt esošos logus un pārveidot tos par ailām. Balkonu ārējais perimetrs - no sāniem un no augšas – drošības nolūkos apvilkts ar sietu / tīklu. Balkonu centrālā daļa izklāta ar rūdītu laminētu stiklu. Stāva vidū paredzētas apmeklētāju tualetes, kā arī instruktāžas zona un ģērbtuves \"Sky Walk\" apmeklētājiem. "
+	},
+	"tv-tower-description-4-8": {
+		"en": "The existing windows of the TV tower are planned to be replaced within the scope of the construction project, and it is planned to erect equipment for washing windows externally and eventual replacement of lighting elements. The tower is planned to be lighted.",
+		"lv": "Ekstrēmo āra pastaigu līmenī \"Sky Walk\" būs  iespējams nokļūt ar pacēlāju līdz pieturvietai +222m augstumā un pēc tam, izmantojot no jauna veidotās kāpnes, nokāpjot līdz +218m augstumam. Ekstrēmo āra pastaigu laipu \"Sky Walk\" ir paredzēts veidot vienā līmenī ar esošo stāva grīdu. Laipas konstrukcija veidojama no metāla. Laipas virsma gar ārmalu un gar iekšmalu veidojama no rievota metāla, vidusdaļa - no rūdīta laminētā stikla. Torņa fasāde Būvprojekta ietvaros paredzēta esošo TV toņa logu nomaiņa, kā arī aprīkojuma uzstādīšana logu āra mazgāšanai un perspektīvai izgaismošanas elementu nomaiņai. Paredzēta Torņa izgaismošana. "
+	},
+	"tv-tower-partner-1": {
+		"en": "LLC “Nams“",
+		"lv": "SIA “Nams“",
+		"ru": "SIA “Nams“"
+	},
+	"tv-tower-partner-2": {
+		"en": "LLC \"Būvinženieru konstruktoru birojs\"",
+		"lv": "SIA \"Būvinženieru konstruktoru birojs\"",
+		"ru": "SIA \"Būvinženieru konstruktoru birojs\""
+	},
+	"tv-tower-partner-3": {
+		"en": "LLC \"Belss\"",
+		"lv": "SIA \"Belss\"",
+		"ru": "SIA \"Belss\""
+	},
+	"tv-tower-partner-4": {
+		"en": "LLC \"Project Design\" ",
+		"lv": "SIA \"Project Design\" ",
+		"ru": "SIA \"Project Design\" "
+	},
+	"tv-tower-partner-5": {
+		"en": "LLC \"Fima\"",
+		"lv": "SIA \"Fima\"",
+		"ru": "SIA \"Fima\""
+	},
+	"tv-tower-partner-6": {
+		"en": "LLC \"NET-Core\"",
+		"lv": "SIA \"NET-Core\"",
+		"ru": "SIA \"NET-Core\""
+	},
+	"tv-tower-partner-7": {
+		"en": "LLC \"Inspecta Prevention\"",
+		"lv": "SIA \"Inspecta Prevention\"",
+		"ru": "SIA \"Inspecta Prevention\""
+	},
+	"tv-tower-partner-8": {
+		"en": "LLC \"Farels Solutions\"",
+		"lv": "SIA \"Farels Solutions\"",
+		"ru": "SIA \"Farels Solutions\""
+	},
+	"tv-tower-partner-9": {
+		"en": "LLC \"CMB\"",
+		"lv": "SIA \"CMB\"",
+		"ru": "SIA \"CMB\""
+	},
+	"tv-tower-partner-10": {
+		"en": "LLC \"VRMC\"",
+		"lv": "SIA \"VRMC\"",
+		"ru": "SIA \"VRMC\""
+	},
+	"tv-tower-partner-11": {
+		"en": "LLC \"Northproject\"",
+		"lv": "SIA \"Northproject\"",
+		"ru": "SIA \"Northproject\""
+	},
+	"useful-links": {
+		"en": "Useful Links",
+		"lv": "Noderīgas saites"
+	},
+	"lnb-infra-title-1": {
+		"en": "Preliminary design project content",
+		"lv": "Skiču projekta sastāvs"
+	},
+	"lnb-infra–text-1": {
+		"en": "Stage 1 110/10Kv transformer substation ‘Bibliotēka’, 110 kV external networks, 10 kV external networks;",
+		"lv": "1.kārta: 110/10Kv transformatoru apakšstacija ”Bibliotēka”, 110 kV ārējie tīkli, 10 kV ārējie tīkli;"
+	},
+	"lnb-infra–text-2": {
+		"en": "Stage 2 LNL technical building; cooling main for conditioning equipment from the river Daugava to the technical building; technical building’s connections to the existing external utility networks (water, sewerage, heating, telecommunications and data transmission); LNL building’s connections to the existing external utility networks (water, sewerage, heating, telecommunications and data transmission); relocation of transformer point No. 258; landscaping phase 1.",
+		"lv": "2.kārta: LNB tehniskā ēka, kondicionēšanas iekārtu dzesēšanas maģistrāle no Daugavas līdz tehniskajai ēkai, tehniskās ēkas pieslēgumi esošajiem ārējiem inženierkomunikāciju tīkliem (ūdensvada, kanalizācijas, siltuma, telekomunikāciju un datu pārraide), LNB ēkas pieslēgumi esošajiem ārējiem inženierkomunikāciju tīkliem (ūdensvada, kanalizācijas, siltuma, telekomunikāciju un datu pārraide), transformatoru punkta Nr. 258 pārnešana, labiekārtojuma 1. posms."
+	},
+	"lnb-infra–text-3": {
+		"en": "Stage 3 Reconstruction of Valguma Street, Akmens Street, Mūkusalas Street and Uzvaras Blvd, rainwater sewerage; landscaping phase 2;",
+		"lv": "3.kārta: Valguma, Akmens, Mūkusalas ielu un Uzvaras bulvāra rekonstrukcija, lietus ūdens kanalizācija, labiekārtojuma 2. posms;"
+	},
+	"lnb-infra–text-4": {
+		"en": "Stage 4 Construction of main sewer (d1200) along Akmens Street and Valguma Street; dismantling of the old main sewer 600x900 on Kuģu Street; relocation of water mains (d400) from Uzvaras Blvd to Mūkusalas Street;",
+		"lv": "4.kārta: Kanalizācijas maģistrālā vada (d1200) izbūve pa Akmens un Valguma ielām, vecā kanalizācijas vada 600x900 Kuģu ielā demontāža, ūdensvada d400 pārnešana no Uzvaras bulvāra uz Mūkusalas ielu;"
+	},
+	"lnb-infra–text-5": {
+		"en": "Stage 5 Underground parking lot by the LNL building, its vehicular entrance and exit; landscaping phase 3;",
+		"lv": "5.kārta: Pazemes autostāvvieta pie LNB ēkas, iebrauktuve un izbrauktuve no tās, labiekārtojuma 3. posms;"
+	},
+	"lnb-infra–text-6": {
+		"en": "Stage 6 Embankment of the river Daugava in the section between Akmens Bridge to the Railway Bridge; reconstruction of the passage to Akmens Bridge.",
+		"lv": "6.kārta: Daugavas krastmala posmā no Akmens tilta līdz dzelzceļa tiltam, Akmens tilta galacaurbrauktuves rekonstrukcija."
+	},
+	"lnb-infra-partner-1": {
+		"en": "Project author: Arhitektu birojs Ģelzis-Šmits-Arhetips Ltd. (GSA projekts); Arhetips Ltd.  (M. Mežulis, J. Saknītis), Arhitekta Modra Ģelža birojs Ltd. (S. Laganovska), RDS arhitekti Ltd.  (R. D. Šmits);",
+		"lv": "Projekta autors: „Arhitektu birojs Ģelzis-Šmits-Arhetips” (“GSA projekts”); “Arhetips” (M.Mežulis, J. Saknītis), “Arhitekta Modra Ģelža birojs” (S.Laganovska), “RDS arhitekti” (R.D.Šmits);"
+	},
+	"lnb-infra-partner-2": {
+		"en": "Construction project management: Arhitektu birojs Ģelzis-Šmits-Arhetips Ltd. (GSA projekts) (M. Mežulis);",
+		"lv": "Būvprojekta vadība: „Arhitektu birojs Ģelzis-Šmits-Arhetips” (“GSA projekts”) (M.Mežulis); "
+	},
+	"lnb-infra-partner-3": {
+		"en": "Architectural part and master plan: Arhetips Ltd. (M. Mežulis, J. Saknītis), Arhitekta Modra Ģelža Birojs Ltd. (S. Laganovska), RDS Arhitekti Ltd. (R. D. Šmits);",
+		"lv": "Arhitektūras daļa un ģenplāns: “Arhetips” (M.Mežulis, J.Saknītis), “Arhitekta Modra Ģelža birojs” (S.Laganovska), “RDS arhitekti” (R.D.Šmits);"
+	},
+	"lnb-infra-partner-4": {
+		"en": "Building structures: Būvinženieru Konsultāciju Birojs Ltd.;",
+		"lv": "Būvkonstrukcijas: „Būvinženieru konsultāciju birojs”;"
+	},
+	"lnb-infra-partner-5": {
+		"en": "Engineering parts: Constructus Ltd., Ūdensvada un kanalizācijas būve Ltd., N&T Projekts Ltd., Kārlis Ltd., O3FM Ltd., E. Daniševska birojs Ltd.",
+		"lv": "Inženierdaļas: „Constructus”, „Ūdensvada un kanalizācijas būve”, „N&T Projekts”, „Kārlis”, „O3FM”, „E.Daniševska birojs”."
+	},
+	"lnb-infra-title-2": {
+		"en": "Technical project content (Stages 1A and 1B)",
+		"lv": "Tehniskā projekta sastāvs (1A un 1B kārtas)"
+	},
+	"lnb-infra-text-7": {
+		"en": "Multifunctional technical buildings (ref. points 11–19, A (A`)-F(F`)), observing the project solutions provided for construction stage 3;",
+		"lv": "Daudzfunkcionālā tehniskā ēka (asīs 11-19, A (A`)-F(F`)), ievērtējot būvniecības 3.kārtā paredzētos projekta risinājumus;"
+	},
+	"lnb-infra-text-8": {
+		"en": "Open-air temporary parking lot;",
+		"lv": "Atklātā pagaidu autostāvvieta;"
+	},
+	"lnb-infra-text-9": {
+		"en": "Reconstruction of sidewalks along Uzvaras Blvd. and at the intersection of Valguma and Akmeņu Streets;",
+		"lv": "Valguma ielas, Valguma - Akmeņu ielas krustojuma un Uzvaras bulvāra ietves  rekonstrukcija;"
+	},
+	"lnb-infra-text-10": {
+		"en": "Landscaping between LNL building and Mūkusalas and Akmeņu Streets (without underground parking lot);",
+		"lv": "Labiekārtojums starp LNB ēku, Mūkusalas un Akmeņu ielām (bez apakšzemes stāvvietas);"
+	},
+	"lnb-infra-text-11": {
+		"en": "Reconstruction of water pipe from Mūkusalas Street, along Akmeņu and Valguma Streets, and up to Uzvaras Blvd, with connections to LNL and technical building;",
+		"lv": "Ūdensvada rekonstrukcija no Mūkusalas ielas pa Akmeņu un Valguma ielām līdz Uzvaras bulvārim ar pieslēgumu LNB un tehniskajai ēkai; "
+	},
+	"lnb-infra-text-12": {
+		"en": "Relocation of sewerage collector from the former Kuģu Street to Mūkusalas Street, Akmeņu Street and Valguma Street, with connections to LNL and technical building;",
+		"lv": "Kanalizācijas kolektora pārnešana no bijušās Kuģu ielas uz Mūkusalas, Akmeņu un Valguma ielām ar pieslēgumu LNB un tehniskajai ēkai; "
+	},
+	"lnb-infra-text-13": {
+		"en": "Rain water collection from LNL building along Uzvaras Blvd, Valguma Street, Akmeņu Street and open-air parking lot; construction of rainwater outlets into the river Daugava;",
+		"lv": "Lietus kanalizācijas savākšana no LNB ēkas pa Uzvaras bulvāri, Valguma, Akmeņu ielām, atklātās autostāvvietas, lietus ūdens izvadu Daugavas upē izbūve;"
+	},
+	"lnb-infra-text-14": {
+		"en": "Construction of refrigerating plant’s cooling main networks from the technical building to the river Daugava, and construction of a pump station;",
+		"lv": "Aukstuma centra dzesēšanas maģistrālo tīklu no tehniskās ēkas līdz Daugavai un sūkņu stacijas izbūve;"
+	},
+	"lnb-infra-text-15": {
+		"en": "Construction of a cold supply network from the technical building to LNL building;",
+		"lv": "Aukstumapgādes tīklu no Tehniskās ēkas uz LNB ēku izbūve;"
+	},
+	"lnb-infra-text-16": {
+		"en": "Connection of the technical building to the existing heating main;",
+		"lv": "Tehniskās ēkas pieslēgums esošajai siltumtrasei;"
+	},
+	"lnb-infra-text-17": {
+		"en": "Relocation of the existing low voltage network duct in Akmeņu and Valguma Streets; construction of a low voltage duct inlet for LNL building and technical building; construction of low voltage linkage between the technical building and LNL building;",
+		"lv": "Esošās vājstrāvu tīklu kanalizācijas pārnešana Akmeņu un Valguma ielās, vājstrāvu kanalizācijas ievada izbūve LNB un Tehniskai ēkai, vājstrāvu saites starp Tehnisko ēku un LNB ēku izbūve;"
+	},
+	"lnb-infra-text-18": {
+		"en": "Construction of end user power supply network, Rīgas Gaisma 0.4 kV cables and Rīgas Satiksme DC cables.",
+		"lv": "Lietotāja elektroapgādes tīkla, Rīgas Gaismas 0,4 kV  kabeļu un Rīgas Satiksme līdzstrāvu kabeļa izbūve."
+	},
+	"lnb-infra-partner-2-1": {
+		"en": "Project author: Arhetips Ltd. (M. Mežulis, J. Saknītis), Arhitekta Modra Ģelža birojs Ltd. (S. Laganovska);",
+		"lv": "Projekta autors: “Arhetips” (M.Mežulis, J. Saknītis), “Arhitekta Modra Ģelža birojs” (S.Laganovska);"
+	},
+	"lnb-infra-partner-2-2": {
+		"en": "Construction project management: Arhitektu birojs Ģelzis-Šmits-Arhetips Ltd. (GSA projekts) (M. Mežulis); ",
+		"lv": "Būvprojekta vadība: „Arhitektu birojs Ģelzis-Šmits-Arhetips” (“GSA projekts”) (M.Mežulis); "
+	},
+	"lnb-infra-partner-2-3": {
+		"en": "Architectural part and master plan: Arhetips Ltd. (M. Mežulis, J. Saknītis); Master plan and landscaping: Arhetips Ltd. (M. Mežulis), Arhitekta Modra Ģelža birojs Ltd. (S. Laganovska);",
+		"lv": "Arhitektūras daļa un ģenplāns: “Arhetips” (M.Mežulis, J.Saknītis);"
+	},
+	"lnb-infra-partner-2-4": {
+		"en": "Building structures: Būvinženieru Konsultāciju Birojs Ltd.;",
+		"lv": "Ģenplāns un teritorijas labiekārtojums: “Arhetips” (M.Mežulis), “Arhitekta Modra Ģelža birojs” (S.Laganovska);"
+	},
+	"lnb-infra-partner-2-5": {
+		"en": "Engineering parts: Constructus Ltd., Ūdensvada un kanalizācijas būve Ltd., N&T",
+		"lv": "Būvkonstrukcijas: „Būvinženieru konsultāciju birojs”;"
+	},
+	"lnb-infra-partner-2-6": {
+		"en": "Projekts Ltd., Kārlis Ltd., O3FM Ltd., E. Daniševska birojs Ltd.;",
+		"lv": "Inženierdaļas: „Constructus”, „Ūdensvada un kanalizācijas būve”, „N&T Projekts”, „Kārlis”, „O3FM”, „E.Daniševska birojs”;"
+	},
+	"tv3-title": {
+		"en": "Reconstruction of an office building with warehouse, tailoring premises for TV3 Studio - PROJECT",
+		"lv": "Biroja ēkas ar noliktavu pārbūve, paredzot ēkā TV3 studijas telpas - PROJEKTS"
+	},
+	"tv3-title-short": {
+		"en": "TV3 studio premises PROJECT",
+		"lv": "TV3 studijas telpas PROJEKTS"
+	},
+	"tv3-duration": {
+		"en": "The project was launched in February 2015; entry on the performance of design provisions made in 23 July 2015.",
+		"lv": "Projekts uzsākts 02.2015., atzīme par projektēšanas nosacījumu izpildi 23.07.2015."
+	},
+	"tv3-address": {
+		"en": "42G Ulbrokas Street, Riga",
+		"lv": "Ulbrokas iela 42G, Rīga"
+	},
+	"tv3-client": {
+		"en": "“TV3 Latvia”",
+		"lv": "“TV3 Latvia”"
+	},
+	"tv3-group-1": {
+		"en": "Project author: Arhetips Ltd. (M. Mežulis, A. Arbidāns);",
+		"lv": "Projekta autors - “Arhetips” (M.Mežulis, A.Arbidāns);"
+	},
+	"tv3-group-2": {
+		"en": "Construction project management, master plan and territory parts, architectural part: Arhetips Ltd. (M. Mežulis, A. Arbidāns);",
+		"lv": "Būvprojekta vadība, ģenplāns, teritorijas un arhitektūras daļa - “Arhetips” (M.Mežulis, A.Arbidāns);"
+	},
+	"tv3-group-3": {
+		"en": "Building structures: BK Inženieri Ltd. (A. Eriņš, G. Jakubovičs);",
+		"lv": "Būvkonstrukcijas - “BK inženieri” (A.Eriņš, G.Jakubovičs);"
+	},
+	"tv3-group-4": {
+		"en": "Fire safety solutions: Related A Ltd. (J. Čerņikovs);",
+		"lv": "Ugunsdrošības risinājumi- “Related A” (J.Čerņikovs);"
+	},
+	"tv3-group-5": {
+		"en": "Heating: NT Projekts Ltd. (E. Mičenis); Ventilation and Air Conditioning: M&E Pro Ltd. (J. Apse);",
+		"lv": "Apkure - “NT projekts” (E.Mičenis), Vēdināšana un dzesēšana- “M&E Pro” (J.Apse);"
+	},
+	"tv3-group-6": {
+		"en": "Works Organization Project: DVP Projekts Ltd. (M. Lagzdiņa);",
+		"lv": "Darbu organizēšanas projekts - “DVP projekts” (M.Lagzdiņa);"
+	},
+	"tv3-group-7": {
+		"en": "Electricity and low voltage: Kārlis Ltd. (D. Laimiņš);",
+		"lv": "Elektrība un vājstrāvas -  „Kārlis” (D.Laimiņš);"
+	},
+	"tv3-group-8": {
+		"en": "Water supply and sewerage: Ūdensvada Un Kanalizācijas Būve Ltd. (A. Dergačovs).",
+		"lv": "Ūdensapgāde un kanalizācija - “Ūdensvada un kanalizācijas būve” (A.Dergačovs)."
+	},
+	"tv3-area-1": {
+		"en": "Designed TV studio",
+		"lv": "Projektētā TV studija"
+	},
+	"tv3-area-2": {
+		"en": "Exiting office building",
+		"lv": "Esošā biroja ēka"
+	},
+	"tv3-area-3": {
+		"en": "Exiting warehouse building",
+		"lv": "Esošā noliktavas ēka"
+	},
+	"level-area": {
+		"en": "Floor area",
+		"lv": "Ēkas stāvu platība"
+	},
+	"tv3-floor-1": {
+		"en": "TV studio",
+		"lv": "TV studija"
+	},
+	"tv3-floor-2": {
+		"en": "Exiting office building",
+		"lv": "Esošā biroja ēka"
+	},
+	"tv3-floor-3": {
+		"en": "Exiting warehouse building",
+		"lv": "Esošā noliktavas ēka"
+	},
+	"project-proposals": {
+		"en": "Project proposals",
+		"lv": "Projektu priekšlikumi"
+	},
+	"proposals-short-desc": {
+		"en": "Construction site intentions, alternative solutions, competitions, visions",
+		"lv": "Būvobjektu ieceres, alternatīvi risnājumi, konkursi, vīzijas"
+	},
+	"proposals-estrade": {
+		"en": "Reconstruction on Neibāde park and Saulkrasti music hall complex",
+		"lv": "Neibādes parka un Saulkrastu estrādes kompleksa pārbūves PROJEKTS"
+	},
+	"estrade-location": {
+		"en": "42A Ainažu Street, Saulkrasti, Saulkrasti municipal area",
+		"lv": "Ainažu iela 42A, Saulkrasti, Saulkrastu novads"
+	},
+	"estrade-client": {
+		"en": "Saulkrasti Municipal Council",
+		"lv": "Saulkrastu novada dome"
+	},
+	"development-time": {
+		"en": "Design period",
+		"lv": "Projekta izstrādes laiks"
+	},
+	"development-and-building-time": {
+		"en": "Project development and construction time",
+		"lv": "Projekta izstrādes un būvniecības laiks"
+	},
+	"estrade-development-time": {
+		"en": "Project was launched in March 2016; architectural concept was approved on 15 July 2016.",
+		"lv": "Projekts uzsākts 03.2016., būvniecības iecere akceptēta 15.07.2016."
+	},
+	"project-group": {
+		"en": "Project group",
+		"lv": "Projekta grupa"
+	},
+	"estrade-group-1": {
+		"en": "Author of the project - M.Mežulis;",
+		"lv": "Projekta autors - M.Mežulis;"
+	},
+	"estrade-group-2": {
+		"en": "Construction project management, master plan, architectural part: Arhetips Ltd. (M. Mežulis, Z, Janele);",
+		"lv": "Būvprojekta vadība, ģenplāns, arhitektūras daļa - “Arhetips” (M.Mežulis, Z.Janele);"
+	},
+	"estrade-group-3": {
+		"en": "Building structures: IG Kurbads Ltd.;",
+		"lv": "Būvkonstrukcijas - “IG Kurbads”;"
+	},
+	"estrade-group-4": {
+		"en": "Acoustics consultant: Gade & Mortensen Akustik A/S (A. Chr. Gade);",
+		"lv": "Konsultants akustikas jautājumos - “Gade & Mortensen akustik” (A.Chr. Gade);"
+	},
+	"estrade-group-5": {
+		"en": "Membrane structures consultant: Taiyo Europe (B. Fauchon).",
+		"lv": "Konsultants membrānas konstrukcijās - “Taiyo Europe” (B.Fauchon)."
+	},
+	"estrade-size-1": {
+		"en": "Processing and auxiliary rooms",
+		"lv": "Estrāde un palīgtelpas"
+	},
+	"estrade-size-2": {
+		"en": "Auditorium",
+		"lv": "Skatītāju zāle"
+	},
+	"estrade-size-3": {
+		"en": "Access roads, footpaths",
+		"lv": "Piebraucamie, gājēju ceļi"
+	},
+	"pirags-title": {
+		"en": "Cafe with summer terrace - PROJECT",
+		"lv": "Kafejnīca ar vasaras terasi - PROJEKTS"
+	},
+	"pirags-address": {
+		"en": "Saulkrasti, Sun Square",
+		"lv": "Saulkrasti, Saules laukums"
+	},
+	"pirags-client": {
+		"en": "LLC \"Superpīrāgs\"",
+		"lv": "SIA Superpīrāgs"
+	},
+	"bulduru-title": {
+		"en": "Apartment interior, Jurmala, Bulduri prospect",
+		"lv": "Dzīvokļa interjers, Jūrmala, Bulduru prospekts"
+	},
+	"bulduru-duties": {
+		"en": "Author of the project",
+		"lv": "Projekta autors"
+	},
+	"apartemenent-area": {
+		"en": "Useful area of the apartment",
+		"lv": "Dzīvokļa lietderīgā platība"
+	},
+	"terace-area": {
+		"en": "Terrace area",
+		"lv": "Terašu platība"
+	},
+	"page-author": {
+		"en": "Page author",
+		"lv": "Lapas autors"
+	},
+	"contractor": {
+		"en": "Contractor",
+		"lv": "Būvuzņēmējs"
+	},
+	"object-interior": {
+		"en": "Furniture and interior equipment",
+		"lv": "Mēbeles un interjera iekārtas"
+	},
+	"object-costs": {
+		"en": "Construction costs ",
+		"lv": "Ēkas būvniecības izmaksas "
+	},
+	"building-status-1": {
+		"en": "Building has been put in service",
+		"lv": "ĒKA NODOTA EKSPLUATĀCIJĀ"
+	},
+	"building-status-2": {
+		"en": "MARK FOR COMPLIANCE WITH DESIGN CONDITIONS",
+		"lv": "ATZĪME PAR PROJEKTĒŠANAS NOSACĪJUMU IZPILDI"
+	},
+	"block-title": {
+		"en": "Modular construction of modifiable residential houses",
+		"lv": "Moduļu konstrukcijas tipveida modificējamas dzīvojamās mājas"
+	},
+	"block-address": {
+		"en": "Saulkrasti",
+		"lv": "Saulkrasti"
+	},
+	"block-client": {
+		"en": "LLC \"DERB\"",
+		"lv": "SIA DERB"
+	},
+	"block-author": {
+		"en": "Project authors: M.Mežulis, A.Arbidāns",
+		"lv": "Projekta autori: M.Mežulis, A.Arbidāns"
+	},
+	"block-building-1": {
+		"en": "2-room type (3 modules, I3)",
+		"lv": "2-istabu tips (3 moduļi, I3)"
+	},
+	"block-building-2": {
+		"en": "2-room type (4 modules, L4)",
+		"lv": "2-istabu tips (4 moduļi, L4)"
+	},
+	"block-inside": {
+		"en": "Indoor area",
+		"lv": "Iekštelpu platība"
+	},
+	"block-terrace": {
+		"en": "Terrace area",
+		"lv": "Terases platība"
+	},
+	"project-man": {
+		"en": "Designer",
+		"lv": "Projektētājs"
+	},
+	"building-description": {
+		"en": "Characteristics of the building",
+		"lv": "Ēkas raksturojums"
+	},
+	"stopini-title": {
+		"en": "The idea of a new building for the Stopiņi district cultural center",
+		"lv": "Stopiņu novada kultūras centra jaunbūves iecere"
+	},
+	"stopini-title-2": {
+		"en": "Competition project - 1st place",
+		"lv": "Konkursa projekts - 1. godalga"
+	},
+	"stopini-address": {
+		"en": "Stopiņi county, 3 Instituta street",
+		"lv": "Stopiņu novads, Institūta iela 3"
+	},
+	"stopini-client": {
+		"en": "Stopiņi County Council",
+		"lv": "Stopiņu novada dome"
+	},
+	"stopini-development": {
+		"en": "Submission of the tender offer - 28.03.2008.",
+		"lv": "Konkursa piedāvājuma iesniegšana - 28.03.2008."
+	},
+	"parking-spaces": {
+		"en": "Number of parking spaces",
+		"lv": "Autostāvvietu skaits"
+	},
+	"project-type": {
+		"en": "Project type",
+		"lv": "Projekta tips"
+	},
+	"saules-title": {
+		"en": "SUMMER HOUSE “SAULES OSTA”",
+		"lv": "VASARNĪCAS JAUNBŪVE “SAULES OSTA”"
+	},
+	"saules-address": {
+		"en": "Vidrizu Str. 5, Saulkrasti, Saulkrastu district, LV- 2160, Cadastral No. 8013 002 0146",
+		"lv": "Vidrižu iela 12, Saulkrasti, Saulkrastu nov., LV-2160, Kadastra Nr: 8013 002 0146"
+	},
+	"saules-development-time": {
+		"en": "The project was launched in April 2019; construction project accepted in August 2019, construction work completed in June 2022.",
+		"lv": "Projekts uzsākts 04.2019., būvprojekts saskaņots 15.08.2021., būvdarbi pabeigti 06.2022."
+	},
+	"saules-group-1": {
+		"en": "Project author: Arhetips Ltd., arch.M. Mežulis",
+		"lv": "Projekta autors – SIA “Arhetips”, arh. M.Mežulis;"
+	},
+	"saules-group-2": {
+		"en": "Construction project management, master plan and territory parts, architectural part, interior: Arhtips Ltd. (M. Mežulis)",
+		"lv": "Būvprojekta vadība, ģenplāns un teritorijas sadaļa, arhitektūras daļa un interjers- SIA “Arhetips” (M.Mežulis);"
+	},
+	"saules-group-3": {
+		"en": "Building structures: A.Ivuškāns",
+		"lv": "Būvkonstrukcijas- A.Ivuškāns;"
+	},
+	"saules-group-4": {
+		"en": "Electricity and low voltage: Engineering Solutions Ltd., D.Laimiņš",
+		"lv": "Elektrība un vājstrāvas-  SIA „Engineering Solutions”, D.Laimiņš;"
+	},
+	"saules-group-5": {
+		"en": "HVAC: N.Kotina",
+		"lv": "Apkure, vēdināšana un kondicionēšana- N.Kotina;"
+	},
+	"saules-group-6": {
+		"en": "Water supply and sewerage: J.Krivicka",
+		"lv": "Ūdensapgāde un kanalizācija- J.Krivicka;"
+	},
+	"saules-group-7": {
+		"en": "Stained-Glass Window: I.Kārkluvalka.",
+		"lv": "Vitrāža- I.Kārkluvalka."
+	},
+	"saules-description-1": {
+		"en": "To have a refreshing morning swim, sunbathe in the white sand, experience amazing sunsets, move to the rhythms of jazz music, and take part in water attractions – to enjoy the best moments of life...",
+		"lv": "Spirdzināties rīta peldē, sauļoties baltajās smiltīs, vērot skaistos saulrietus, kustēties džeza mūzikas ritmos, piedalīties ūdens atrakcijās - baudīt dzīves skaistākos mirkļus…"
+	},
+	"saules-description-2": {
+		"en": "Professionals with the highest qualifications have worked on the development of design and construction of the building. In terms of its location, layout, equipment and interior, the two-storey building, finished at the beginning of the summer of 2022, meets the highest modern requirements and will satisfy even the most sophisticated guests. ",
+		"lv": "Pie nama projekta izstrādes, izbūves un interjera strādājuši visaugstākās kvalifikācijas profesionāļi. 2022. gada vasaras sākumā pabeigtais divstāvu nams savā novietojumā, plānojumā, aprīkojumā un interjerā atbilst visaugstākajām mūsdienu prasībām un apmierinās visizsmalcinātākos viesus."
+	},
+	"mencu-title": {
+		"en": "Individual private house",
+		"lv": "INDIVIDUĀLĀS DZĪVOJAMĀS MĀJAS UN SAIMNIECĪBAS ĒKAS JAUNBŪVE"
+	},
+	"mencu-address": {
+		"en": "Mencu Str. 5, Garupe, Carnikavas parish, Ādažu district, LV- 2163, Cadastral No. 8052 004 1065",
+		"lv": "Mencu iela 5, Garupe, Carnikavas pag., Ādažu nov., LV- 2163, Kadastra Nr: 8052 004 1065"
+	},
+	"mencu-development-time": {
+		"en": "The project was launched in January 2021; entry on the performance of design provisions made in June 2021.",
+		"lv": "Projekts uzsākts 01.2021., atzīme par projektēšanas nosacījumu izpildi 01.06.2021."
+	},
+	"mencu-group-1": {
+		"en": "Project author: GSA projekts Ltd. (M. Mežulis)",
+		"lv": "Projekta autors – SIA “GSA projekts”, arh. M.Mežulis;"
+	},
+	"mencu-group-2": {
+		"en": "Construction project management, master plan and territory parts, architectural part: GSA projekts Ltd. (M. Mežulis, A.Arbidāns)",
+		"lv": "Būvprojekta vadība, ģenplāns un teritorijas sadaļa, arhitektūras daļa—SIA “GSA projekts” (M.Mežulis, A.Arbidāns);"
+	},
+	"mencu-group-3": {
+		"en": "Building structures: Structural Designers Group Ltd., V.Mitrofanovs",
+		"lv": "Būvkonstrukcijas- SIA “Structural Designers Group”, V. Mitrofanovs;"
+	},
+	"mencu-group-4": {
+		"en": "Energy efficiency solutions: Farels Solutions Ltd., A.Vulāns",
+		"lv": "Energoefektivitātes risinājumi- SIA “Farels Solutions”, A.Vulāns;"
+	},
+	"mencu-group-5": {
+		"en": "Electricity and low voltage: Kārlis Ltd., D.Laimiņš",
+		"lv": "Elektrība un vājstrāvas-  SIA „Kārlis”, D.Laimiņš;"
+	},
+	"mencu-group-6": {
+		"en": "HVAC: Ķigurs inženieri  Ltd., J.Ķigurs",
+		"lv": "Apkure, vēdināšana un kondicionēšana- SIA “Ķigurs inženieri”, J.Ķigurs;"
+	},
+	"mencu-group-7": {
+		"en": "Water supply and sewerage: Ķigurs inženieri  Ltd., J.Ķigurs",
+		"lv": "Ūdensapgāde un kanalizācija- SIA “Ķigurs inženieri”, J.Ķigurs."
+	},
+	"mencu-detail": {
+		"en": "ENTRY ON THE PERFORMANCE OF DESIGN PROVISIONS",
+		"lv": "ATZĪME PAR PROJEKTĒŠANAS NOSACĪJUMU IZPILDI, BŪVDARBI"
+	},
+	"libiesi-title": {
+		"en": "RECONSTRUCTION OF THE INDIVIDUAL RESIDENTIAL HOUSE \"GAUJAS LİBIEŠI\"",
+		"lv": "INDIVIDUĀLĀS DZĪVOJAMĀS MĀJAS PĀRNBŪVE “GAUJAS LĪBIEŠI”"
+	},
+	"libiesi-address": {
+		"en": "Laurencu Str. 11, Sigulda, Sigulda district, LV- 2150, Cadastral No. 80155020015",
+		"lv": "Laurenču iela 11, Sigulda, Siguldas nov., LV-2150, Kadastra Nr: 80155020015"
+	},
+	"libiesi-time": {
+		"en": "The project was launched in February 2022; construction intent accepted and building permit issued in May 2021.",
+		"lv": "Projekts uzsākts 02.2022., būvniecības iecere akceptēta un izdota būvatļauja 23.05.2022."
+	},
+	"libiesi-detail": {
+		"en": "ACCEPTED CONSTRUCTION INTENT, ISSUED BUILDING PERMIT",
+		"lv": "AKCEPTĒTA BŪVNIECĪBAS IECERE, IZDOTA BŪVATĻAUJA"
+	}
+}
